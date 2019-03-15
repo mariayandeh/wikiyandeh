@@ -16,10 +16,9 @@ Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá
 * Solução técnica inovadora
 
 Para obter algumas informações sobre a plataforma, acesse o vídeo.
-```
-[![Yandeh](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=0bBq_EpG8g0"Yandeh")
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=0bBq_EpG8g0 "Everything Is AWESOME")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MjEyMDg5XX0=
+eyJoaXN0b3J5IjpbNDk4OTAyMjQ3LDQ0NzIxMjA4OV19
 -->
