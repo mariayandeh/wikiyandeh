@@ -17,6 +17,8 @@ description: >-
 | amount\* | Valor da parcela | float | – | 129.9 |
 | payment\_term\* | Prazo do pagamento da parcela em dias | integer | – | 30 |
 
+\*Campos obrigatórios
+
 ### Exemplo da consulta em SQL:
 
 ```text

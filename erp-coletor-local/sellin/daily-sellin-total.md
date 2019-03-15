@@ -14,6 +14,8 @@ description: Modelo de Dados - "Daily_SellIn_Total" | Valor total de compra por 
 | quantity\* | Quantidade de documentos fiscais | integer | inteiro não-negativo | 3759 |
 | amount\* | Faturamento total | float | float não-negativo | 123457.93 |
 
+\*Campos obrigatórios
+
 ### Exemplo da consulta em SQL:
 
 ```text

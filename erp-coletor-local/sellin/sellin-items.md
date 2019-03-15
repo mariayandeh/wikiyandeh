@@ -24,6 +24,8 @@ description: Modelo de Dados - "Sellin-Items" | Compras de Fornecedor (Itens)
 | quantity\* | Quantidade do produto | float | Este valor deve ser enviado com 4 casas. decimais | 1.0000 |
 | manufacturer\_code | Código do fabricante | string | – | 8928329 |
 
+\*Campos obrigatórios
+
 ### Exemplo da consulta em SQL:
 
 ```text
