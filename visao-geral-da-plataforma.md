@@ -1,11 +1,9 @@
 ---
 
 
----
+## Plataforma Yandeh
 
-<hr>
-<h2 id="plataforma-yandeh">Plataforma Yandeh</h2>
-<h1 id="o-que-é-">O que é ?</h1>
+# O que é ?
 <p>Uma solução tecnológica inovadora que tem como objetivo aumentar a competitividadevarejo brasileiro.</p>
 <h2 id="vantagens-da-solução">Vantagens da solução</h2>
 <p>
@@ -21,5 +19,10 @@ Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá
 <li>Solução técnica inovadora</li>
 </ul>
 <p>Para obter algumas informações sobre a plataforma, acesse o vídeo.
-</p><p><img src="&#10;![Yandeh](https://i.imgur.com/OI5Y2Ay.png" alt="Yandeh">](<a href="https://www.youtube.com/watch?v=0bBq_EpG8g0">https://www.youtube.com/watch?v=0bBq_EpG8g0</a> “Yandeh”)</p> "Yandeh")
+</p
+</p><p><img src="&#10;
+![Yandeh](https://i.imgur.com/OI5Y2Ay.png" alt="Yandeh">](<a href="https://www.youtube.com/watch?v=0bBq_EpG8g0">https://www.youtube.com/watch?v=0bBq_EpG8g0</a> “Yandeh”)</p> "Yandeh")
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExMTU2NjkyNTldfQ==
+-->
