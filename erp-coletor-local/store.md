@@ -1,4 +1,4 @@
-# Lojas
+# Stores
 
 ## Stores \| Loja
 

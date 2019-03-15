@@ -2,7 +2,7 @@
 description: Modelo de Dados - "Sellin-Items" | Compras de Fornecedor (Itens)
 ---
 
-# ComprasSellin - Itens
+# Compras - Itens
 
 ## Compras de Fornecedor - Itens   <a id="sellin---itens"></a>
 
