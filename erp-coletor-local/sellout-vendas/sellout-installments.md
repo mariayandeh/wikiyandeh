@@ -4,7 +4,7 @@ description: >-
   Pagamento)
 ---
 
-# Vendas - Condição de PagaSellout - Installmentos
+# Vendas - Condições de Pagamentos
 
 ## Condição de Pagamento   <a id="forma-de-pagamento"></a>
 

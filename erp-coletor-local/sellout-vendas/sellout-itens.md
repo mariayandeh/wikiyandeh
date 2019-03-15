@@ -2,7 +2,7 @@
 description: Modelo de Dados - "Sellout-Items" | Vendas aos Clientes (Itens)
 ---
 
-# VendasSellout - Itens
+# Vendas - Itens
 
 **Itens do Sellout**
 

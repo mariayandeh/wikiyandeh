@@ -2,7 +2,7 @@
 description: Modelo de Dados - "Sellout-Payment" | Vendas aos Clientes (Forma de Pagamento)
 ---
 
-# Vendas - Forma de PagaSellout - Paymento
+# Vendas - Formas de Pagamentos
 
 ## Forma de Pagamento   <a id="forma-de-pagamento"></a>
 
