@@ -2,7 +2,7 @@
 description: Modelo de Dados - "SellOut" | Vendas para Clientes
 ---
 
-# Vendas
+# Sellout \(Vendas\)
 
 | A entidade Sellout  tem como registros cada uma das vendas realizadas para os clientes. Estando preparada para descrever cada um dos seguintes tipos fiscais: ECF, CF-e, NF-e e NFC-e. |
 | :--- |
@@ -256,3 +256,6 @@ SELECT store_id              AS "store_id",
 FROM   view_sellout
 ```
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MTg2NDc0N119
+-->
