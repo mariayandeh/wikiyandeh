@@ -4,8 +4,9 @@
 # Visão Geral da Plataforma
 
 ## O que é?
-Uma solução tecnológica inovadora que tem como objetivo aumentar a competitividade</p>
-<h2 id="porque-utilizar-a-ferramenta">
+Uma solução tecnológica inovadora que tem como objetivo aumentar a competitividade
+
+porque-utilizar-a-ferramenta
 
 
 ## do varejo brasieio.Porque utilizar a ferramenta
@@ -24,5 +25,5 @@ Uma solução tecnológica inovadora que tem como objetivo aumentar a competitiv
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzI4MjUxNiwxNTg0NzQwNjM4XX0=
+eyJoaXN0b3J5IjpbNDU0Nzk2OTE5LDE1ODQ3NDA2MzhdfQ==
 -->
