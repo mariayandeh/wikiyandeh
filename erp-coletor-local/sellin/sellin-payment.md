@@ -4,7 +4,7 @@ description: >-
   Pagamento)
 ---
 
-# Compras - Forma de Pagamento
+# Compras - Formas de Pagamentos
 
 ## Forma de Pagamento   <a id="forma-de-pagamento"></a>
 
