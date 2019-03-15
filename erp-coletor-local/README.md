@@ -18,16 +18,3 @@ A seguir, apresentamos o escopo reduzido:
 | [Compras \(Sellin\)](sellin/) | Compras realizadas pelos clientes |
 | [Vendas \(Sellout\)](sellout-vendas/) | Vendas realizadas pelos clientes |
 
-
-<object width="426" height="240">
-  <param name="movie" value="https://www.youtube.com/watch?v=0bBq_EpG8g0"></param>
-  <param name="allowFullScreen" value="true"></param>
-  <param name="allowscriptaccess" value="always"></param>
-  <embed src="https://www.youtube.com/watch?v=0bBq_EpG8g0"
-    type="application/x-shockwave-flash"
-    allowscriptaccess="always"
-    allowfullscreen="true"
-    width="426"
-    height="240">
-  </embed>
-</object>
