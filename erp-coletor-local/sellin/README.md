@@ -2,7 +2,7 @@
 description: Modelo de Dados - Sellin | Compras de Fornecedor
 ---
 
-# Compras
+# Sellin \(Compras\)
 
 ## SellIn - Cabeçalho  <a id="sellin---cabe&#xE7;alho"></a>
 
@@ -55,3 +55,6 @@ SELECT store_id             AS "store_id",
 FROM   view_sellin
 ```
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkzNzAyODg3NF19
+-->
