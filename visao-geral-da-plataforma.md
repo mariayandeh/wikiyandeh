@@ -22,5 +22,5 @@ Para obter algumas informações sobre a plataforma, acesse o vídeo.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTkzMjU1OCw0OTg5MDIyNDddfQ==
+eyJoaXN0b3J5IjpbLTEzNTkzMjU1OF19
 -->
