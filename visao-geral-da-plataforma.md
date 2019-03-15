@@ -6,10 +6,10 @@
 ## O que é?
 Uma solução tecnológica inovadora que tem como objetivo aumentar a competitividade
 
-porque-utilizar-a-ferramenta
 
 
-## do varejo brasieio.Porque utilizar a ferramenta
+
+## Do varejo brasileiro. Porque utilizar a ferramenta
 
 * Alertas em tempo real</li>
 <li>
@@ -25,5 +25,5 @@ porque-utilizar-a-ferramenta
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0Nzk2OTE5LDE1ODQ3NDA2MzhdfQ==
+eyJoaXN0b3J5IjpbLTExNjIwNzA1ODQsMTU4NDc0MDYzOF19
 -->
