@@ -1,10 +1,22 @@
-# Visão Geral da Plataforma
+---
 
-Visão Geral da Plataforma
 
-Nessa documentação você tem acesso a todas as informações sobre os tipos de integração com a plataforma Yandeh.  
- Escolha seu modelo de desenvolvimento de integração disponíveis para complementar o negócio de seu cliente.  
- O objetivo dessa documentação é facilitar o processo de desenvolvimento e fornecendo os materiais necessários para realizar a integração com a Yandeh e todos os conceitos sobre a importância dessa integração.
+---
 
-Atualmente a Yandeh está disponível em 2 modelos: ERP-Coletor, API-REST
+<h1 id="visão-geral-da-plataforma">Visão Geral da Plataforma</h1>
+<h2 id="o-que-é">O que é?</h2>
+<p>Uma solução tecnológica inovadora que tem como objetivo aumentar a competitividade do varejo brasileiro.</p>
+<h2 id="vantagens-da-solução">Vantagens da solução</h2>
+<p>Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá-lo a lucrar mais. Com essa solução o varejista pode gerir no detalhe, identificando os problemas e oportunidades acionando os responsáveis pela solução.</p>
+<h2 id="porque-utilizar-a-ferramenta">Porque utilizar a ferramenta</h2>
+<ul>
+<li>Alertas em tempo real</li>
+<li>Visão de mercado</li>
+<li>Software inteligente que propõe ações para aumentar as vendas, diminuir as rupturas e melhorar as margens.</li>
+<li>Ajuda o varejista a comprar melhor e com menor preço</li>
+<li>Aumento da competitividade</li>
+<li>Baixo custo de investimento</li>
+<li>Solução técnica inovadora</li>
+</ul>
+<p>Acesse o vídeo <a href="https://www.youtube.com/watch?v=0bBq_EpG8g0%22"><img src="http://i.imgur.com/Ot5DWAW.png" alt="Everything Is AWESOME"></a> para obter algumas informações sobre a plataforma.</p>
 
