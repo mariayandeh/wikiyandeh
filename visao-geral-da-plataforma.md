@@ -3,6 +3,8 @@
 
 ---
 
+<hr>
+<hr>
 <h1 id="plataforma-ivendas-da-yandeh">Plataforma ivendas da Yandeh</h1>
 <h2 id="o-que-é">O que é?</h2>
 <p>Uma solução tecnológica inovadora que tem como objetivo aumentar a competitividade do varejo brasileiro.</p>
@@ -22,8 +24,5 @@ Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá
 <p>Para obter algumas informações sobre a plataforma, acesse o vídeo.<br>
 <a href="https://www.youtube.com/watch?v=0bBq_EpG8g0" title="
 Everything Is AWESOME"><img src="https://i.imgur.com/O" alt="Everything Is AWESOME"></a></p>
-<p><a href="I5Y2Ay.png)](https://www.youtube.com/watch?v=0bBq_EpG8g0" title= "Everything Is AWESOME"><img src="https://i.imgur.com/OI5Y2Ay.png" alt="Everything Is AWESOME"></a></p>
+<p><a href="I5Y2Ay.png)](https://www.youtube.com/watch?v=0bBq_EpG8g0" title="Everything Is AWESOME"><img src="https://i.imgur.com/OI5Y2Ay.png" alt="Everything Is AWESOME"></a></p>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA1MDk1MDNdfQ==
--->
