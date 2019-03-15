@@ -17,10 +17,10 @@ Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá
 
 Para obter algumas informações sobre a plataforma, acesse o vídeo.
 ```
-{% video width="740", height="350", loop="loop", controls="controls" %}https://www.domain.com/video.mp4{% endvideo %}
-```
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5Njc0MjMwOSwtNzgwNDgzMjddfQ==
+eyJoaXN0b3J5IjpbLTk3NDI4MDgxMiwxMzk2NzQyMzA5LC03OD
+A0ODMyN119
 -->
