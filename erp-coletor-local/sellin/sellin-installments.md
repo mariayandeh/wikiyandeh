@@ -4,7 +4,7 @@ description: >-
   de Pagamento)
 ---
 
-# Compras - Condições de Pagamentos
+# Compras - Condiçõesão de PagaSellin - Installmentos
 
 ## Condição de Pagamento   <a id="forma-de-pagamento"></a>
 
@@ -32,3 +32,6 @@ description: >-
 FROM   view_sellin_payment_installments
 ```
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUwMTc2NjM5N119
+-->
