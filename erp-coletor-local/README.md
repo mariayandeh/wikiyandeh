@@ -1,16 +1,14 @@
-# ERP Coletor Local
+# Coletor ERP
 
-A Yandeh instalador local.
+Esse modelo possui o seguinte fluxo:
 
-Fluxo da Integração.
-
-1. Leia toda a documentação sobre a Coletor Local.
-2. Crie as query’s através das views
-3. Enviei as views para validação dos dados.
-4. Cadastre uma loja piloto pela plataforma do ERP, através do formulário.
+1. Leitura da documentação sobre a Coletor ERP.
+2. Criação das query’s através das views
+3. Envio das views para validação dos dados.
+4. Cadastro da loja piloto pela plataforma do ERP, através do formulário.
 5. Recebimento da requisição pela equipe de suporte e instalação
 6. Instalação do Coletor personalizado na loja piloto selecionada pelo parceiro
-7. Pronto, aproveite ao máximo tudo que a Integração Local Yandeh pode oferecer para você!!
+7. Pronto, aproveite ao máximo tudo que a Integração com a Yandeh pode oferecer para você!!
 
 A seguir, apresentamos o escopo reduzido: 
 
