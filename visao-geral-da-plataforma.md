@@ -7,7 +7,7 @@
 <hr>
 <h1 id="plataforma-ivendas-da-yandeh">Plataforma ivendas da Yandeh</h1>
 <h2 id="o-que-é">O que é?</h2>
-<p>Uma solução tecnológica inovadora que tem como objetivo aumentar a competitividade do varejo brasileiro.</p>
+<p>Uma solução tecnológica inovadora que tem como objetivo aumentar a competitividadevarejo brasileiro.</p>
 <h2 id="vantagens-da-solução">Vantagens da solução</h2>
 <p>
 Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá-lo a lucrar mais. Com essa solução o varejista pode gerir no detalhe, identificando os problemas e oportunidades acionando os responsáveis pela solução.</p>
@@ -24,5 +24,8 @@ Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá
 <p>Para obter algumas informações sobre a plataforma, acesse o vídeo.<br>
 <a href="https://www.youtube.com/watch?v=0bBq_EpG8g0" title="
 Everything Is AWESOME"><img src="https://i.imgur.com/O" alt="Everything Is AWESOME"></a></p>
-<p><a href="I5Y2Ay.png)](https://www.youtube.com/watch?v=0bBq_EpG8g0" title="Everything Is AWESOME"><img src="https://i.imgur.com/OI5Y2Ay.png" alt="Everything Is AWESOME"></a></p>
+<p><a href="I5Y2Ay.png)](https://www.youtube.com/watch?v=0bBq_EpG8g0" title= "Everything Is AWESOME"><img src="https://i.imgur.com/OI5A.png" alt="Everything Is AWESOME"></a></p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4ODM3Mzg1NzZdfQ==
+-->
