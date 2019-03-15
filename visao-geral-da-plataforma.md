@@ -4,9 +4,11 @@
 ---
 
 <h2 id="plataforma-yandeh">Plataforma Yandeh</h2>
-<h1 id="o-que-é-">O que éUma solução tecnológica inovadora que tem como objetivo aumentar a competitividadevarejo brasileiro.
+<h1 id="o-que-é-">Uma solução tecnológica inovadora que tem como objetivo aumentar a competitivida devarejo brasileiro.
 
-## Vantagens da soluçãoInformações estratégicas sobre sua loja e o mercado, e sugestões para ajudá-lo a lucrar mais. Com essa solução o varejista pode gerir no detalhe, identificando os problemas e oportunidades acionando os responsáveis pela solução.
+## Vantagens da solução
+
+Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá-lo a lucrar mais. Com essa solução o varejista pode gerir no detalhe, identificando os problemas e oportunidades acionando os responsáveis pela solução.
 
 ## Porque utilizar a ferramenta
 
@@ -17,5 +19,5 @@
 [![Everything Is AWESOME"><img src="](http://i.imgur.com/Ot5DWAW.png" alt=)](https://www.youtube.com/watch?v=0bBq_EpG8g0 "Everything Is AWESOME"></a></p>
 )
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYwMDg0NDddfQ==
+eyJoaXN0b3J5IjpbLTg3MjE5ODc2Nl19
 -->
