@@ -18,5 +18,5 @@
 <li>Baixo custo de investimento</li>
 <li>Solução técnica inovadora</li>
 </ul>
-<p>Acesse o vídeo <a href="https://www.youtube.com/watch?v=0bBq_EpG8g0%22"><img src="http://i.imgur.com/Ot5DWAW.png" alt="Everything Is AWESOME"></a> para obter algumas informações sobre a plataforma.</p>
+<p>Para obter algumas informações sobre a plataforma, acesse o vídeo <a href="https://www.youtube.com/watch?v=0bBq_EpG8g0%22"><img src="http://i.imgur.com/Ot5DWAW.png" alt="Everything Is AWESOME"></a></p>
 
