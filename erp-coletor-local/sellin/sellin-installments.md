@@ -4,7 +4,7 @@ description: >-
   de Pagamento)
 ---
 
-# Compras - Condição de PagaSellin - Installmentos
+# Compras - Condição de Pagamento
 
 ## Condição de Pagamento   <a id="forma-de-pagamento"></a>
 
