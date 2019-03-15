@@ -2,7 +2,7 @@
 description: Modelo de Dados - "Daily_SellIn_Total" | Valor total de compra por dia
 ---
 
-# Compras - Total Diário
+# Compras - Total DiárioSellin - Daily Total
 
 ## Compra total por dia
 
@@ -28,3 +28,6 @@ FROM   view_dialy_sellin_total
 GROUP  BY date
 ```
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NzA5Mjk0MjddfQ==
+-->
