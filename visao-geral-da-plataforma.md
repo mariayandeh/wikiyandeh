@@ -1,4 +1,4 @@
-#
+# Plataforma ivendas da Yandeh
 
 ## O que é?
 Uma solução tecnológica inovadora que tem como objetivo aumentar a competitividade do varejo brasileiro.
@@ -19,5 +19,5 @@ Para obter algumas informações sobre a plataforma, acesse o vídeo [![Everythi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTg4OTc5MCwtMjA4MzQ3ODE1Ml19
+eyJoaXN0b3J5IjpbLTc4MDQ4MzI3XX0=
 -->
