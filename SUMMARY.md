@@ -9,7 +9,7 @@
     * [Compras - Itens](erp-coletor-local/sellin/sellin-items.md)
     * [Compras - Forma de Pagamento](erp-coletor-local/sellin/sellin-payment.md)
     * [Compras - Condição de Pagamento](erp-coletor-local/sellin/sellin-installments.md)
-    * [Compra - Total Diário](erp-coletor-local/sellin/daily-sellin-total.md)
+    * [Compras - Total Diário](erp-coletor-local/sellin/daily-sellin-total.md)
   * [Sellout \(Vendas\)](erp-coletor-local/sellout-vendas/README.md)
     * [VendasSellout - Itens](erp-coletor-local/sellout-vendas/sellout-itens.md)
     * [Vendas - Forma de PagaSellout - Paymento](erp-coletor-local/sellout-vendas/sellout-payment.md)
