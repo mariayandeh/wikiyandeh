@@ -4,9 +4,9 @@ description: >-
   Pagamento)
 ---
 
-# Compras - Formas de PagaSellin - Paymentos
+# Compras - Formas de Pagamentos
 
-## Forma de Pagamento   <a id="forma-de-pagamento"></a>
+## Forma de Pagamento    <a id="forma-de-pagamento"></a>
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :--- | :--- | :--- | :--- | :--- |
@@ -41,6 +41,3 @@ SELECT store_id         AS "store_id",
 FROM   view_sellin_payment
 ```
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMzcxNjcyXX0=
--->

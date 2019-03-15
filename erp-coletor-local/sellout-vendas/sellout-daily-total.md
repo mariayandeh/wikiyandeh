@@ -26,6 +26,3 @@ description: Modelo de Dados - "Daily_Sellout_Total" | Valor total de venda por 
     GROUP  BY date
 ```
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODkwMTcwMl19
--->

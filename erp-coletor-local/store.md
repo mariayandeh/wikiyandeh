@@ -1,4 +1,4 @@
-# LojaStores
+# Lojas
 
 ## Stores \| Loja
 
@@ -19,6 +19,3 @@ Lojas
           FROM   view_stores
 ```
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE5MzI3MjVdfQ==
--->
