@@ -3,10 +3,16 @@
 
 ---
 
-<p>#A plataforma Yandeh consiste em:</p>
+#### A plataforma Yandeh consiste em:
+
+(Texto a definir)
+
 <p>Após a integração com a plataforma, estabelecimentos comerciais (lojista) recebe um aplicativo personalizado com a marca da software house.</p>
 <p>Arquitetura da API<br>
 <img src="https://lh3.googleusercontent.com/Bw-UPux2KmIWPUy2mTvaW4oxBhnII0JpUH9R1f1nPn04Jbqf6xU2or0x41zpJ3K6m5N6xVzwbe0=s400" alt="enter image description here" title="API"></p>
 <p>Arquitetura do Coletor ERP</p>
 <p><img src="https://lh3.googleusercontent.com/EIUX1M9jnllnqIAa9UTCntuChBZsXsKx8BSrETx60-lU6RFuIEBTFj0USj2H5Hb8xZkFRUbbvrE=s400" alt="enter image description here" title="Coletor"></p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTQzOTkyMzQ4XX0=
+-->
