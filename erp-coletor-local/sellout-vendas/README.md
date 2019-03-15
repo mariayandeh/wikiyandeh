@@ -1,4 +1,4 @@
----
+﻿---
 description: Modelo de Dados - "SellOut" | Vendas para Clientes
 ---
 
@@ -260,6 +260,3 @@ SELECT store_id              AS "store_id",
        tipo                  AS "tipo" 
 FROM   view_sellout  
 ```
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjgzMzY3Ml19
--->
