@@ -5,15 +5,18 @@
 * [Arquitetura](arquitetura.md)
 * [Coletor ERP](erp-coletor-local/README.md)
   * [Stores](erp-coletor-local/store.md)
-  * [Compras](erp-coletor-local/sellin/README.md)
-    * [Compras - Itens](erp-coletor-local/sellin/sellin-items.md)
-    * [Compras - Forma de Pagamento](erp-coletor-local/sellin/sellin-payment.md)
-    * [Compras - Condição de Pagamento](erp-coletor-local/sellin/sellin-installments.md)
-    * [Compra - Total Diário](erp-coletor-local/sellin/daily-sellin-total.md)
-  * [Vendas](erp-coletor-local/sellout-vendas/README.md)
-    * [Vendas - Itens](erp-coletor-local/sellout-vendas/sellout-itens.md)
-    * [Vendas - Forma de Pagamento](erp-coletor-local/sellout-vendas/sellout-payment.md)
-    * [Vendas - Condição de Pagamento](erp-coletor-local/sellout-vendas/sellout-installments.md)
-    * [Venda - Total Diário](erp-coletor-local/sellout-vendas/sellout-daily-total.md)
+  * [Sellin \(Compras\)](erp-coletor-local/sellin/README.md)
+    * [ComprasSellin - Itens](erp-coletor-local/sellin/sellin-items.md)
+    * [Compras - Forma de PagaSellin - Paymento](erp-coletor-local/sellin/sellin-payment.md)
+    * [Compras - Condição de PagaSellin - Installmentos](erp-coletor-local/sellin/sellin-installments.md)
+    * [Compra - Total DiárioSellin - Daily Total](erp-coletor-local/sellin/daily-sellin-total.md)
+  * [Sellout \(Vendas\)](erp-coletor-local/sellout-vendas/README.md)
+    * [VendasSellout - Itens](erp-coletor-local/sellout-vendas/sellout-itens.md)
+    * [Vendas - Forma de PagaSellout - Paymento](erp-coletor-local/sellout-vendas/sellout-payment.md)
+    * [Vendas - Condição de PagaSellout - Installmentos](erp-coletor-local/sellout-vendas/sellout-installments.md)
+    * [Venda - Total DiárioSellout - Daily Total](erp-coletor-local/sellout-vendas/sellout-daily-total.md)
 * [API-REST](api-rest.md)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MjMwMDAzNjJdfQ==
+-->
