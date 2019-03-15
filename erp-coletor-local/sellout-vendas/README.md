@@ -23,7 +23,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
   <tbody>
     <tr>
       <td style="text-align:left">store_id*</td>
-      <td style="text-align:left">Identificador interno da loja</td>
+      <td style="text-align:leftinterno da loja</td>
       <td style="text-align:left">integer ou string</td>
       <td style="text-align:left">--</td>
       <td style="text-align:left">1</td>
@@ -58,35 +58,35 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
     </tr>
     <tr>
       <td style="text-align:left">store_taxpayer_id*</td>
-      <td style="text-align:left">CNPJ da loja que realizou a venda</td>
+      <td style="text-align:leue realizou a venda</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">tamanho exato de 14 caracteres</td>
       <td style="text-align:left">&#x201C;05345647000122&#x201D;</td>
     </tr>
     <tr>
       <td style="text-align:left">buyer_taxpayer_id</td>
-      <td style="text-align:left">CPF ou CNPJ do comprador final</td>
+      <td style="text-align:leomprador final</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">tamanho exato de 11 ou 14 caracteres</td>
       <td style="text-align:left">&#x201C;83230677323&#x201D;</td>
     </tr>
     <tr>
       <td style="text-align:left">checkout_id</td>
-      <td style="text-align:left">Identificador do ponto de venda</td>
+      <td style="text-align:left ponto de venda</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">--</td>
       <td style="text-align:left">&#x201C;2938923&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">receipt_number</td>
+      <td style="text-align:left">receipt_numbe</td>
       <td style="text-align:left">N&#xFA;mero do documento fiscal (NF-e/NFC-e/CF-e)</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">tamanho m&#xE1;ximo de 50 caracteres</td>
       <td style="text-align:left">&#x201C;33093&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">receipt_series_number</td>
-      <td style="text-align:left">S&#xE9;rie do documento fiscal (NF-e/NFC-e/CF-e) ou CCF (ECF)</td>
+      <td style="text-align:left">receipt_serie_numbe/td>
+      <td style="text-align:left">S&#xE9;rie do documento fiscal (NF-e/NFC-e/CF-e)</td>
       <td
       style="text-align:left">string</td>
         <td style="text-align:left">No caso de documento ECF, obrigat&#xF3;rio informar o CCF neste campo</td>
@@ -114,18 +114,19 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
     </tr>
     <tr>
       <td style="text-align:left">device_id</td>
-      <td style="text-align:left">N&#xFA;mero do dispositivo</td>
+      <td style="text-align:left">N&#xFA;itivo</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">
         <p></p>
         <p>Deve sempre ser fornecido para documentos do tipo ECF e em forma completa
-          (em vez de reduzida). <b>Tamanho m&#xE1;ximo de 50 caracteres</b>
+          (em vez de reduzida).<b>Tamanho m&#xE1;ximo de 50 caracteres
+       </b
         </p>
       </td>
       <td style="text-align:left">&#x201C;BE1000199329329922&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">seller_id</td>
+      <td style="text-align:left">seller_i</td>
       <td style="text-align:left">CPF do vendedor associado a esta, caso exista vendedor relacionado</td>
       <td
       style="text-align:left">string</td>
@@ -167,8 +168,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
     <tr>
       <td style="text-align:left">operation</td>
       <td style="text-align:left">Tipo da opera&#xE7;&#xE3;o realizada</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">
+      <td style="text-align:left">string</      <td style="text-align:left">
         <p>limita-se apenas aos valores:</p>
         <p>&#x25CF; &#x201C;E&#x201D; : entrada</p>
         <p>&#x25CF; &#x201C;S&#x201D; : sa&#xED;da</p>
@@ -182,8 +182,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
     <tr>
       <td style="text-align:left">transaction_type</td>
       <td style="text-align:left">Indica qual tipo de transa&#xE7;&#xE3;o realizada</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">
+      <td style="text-align:left">string</      <td style="text-align:left">
         <p>limita-se apenas aos valores:</p>
         <p>&#x25CF; &#x201C;J&#x201D; : ajuste de estoque</p>
         <p>&#x25CF; &#x201C;P&#x201D; : faturamento de pedido</p>
@@ -227,11 +226,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
         <p>&#x25CF; &#x201C;nfe&#x201D; : Nota Fiscal Eletr&#xF4;nica</p>
       </td>
       <td style="text-align:left">&#x201C;nfce&#x201D;</td>
-    </tr>
-  </tbody>
-</table>
-
-#### Exemplo da consulta em SQL:
+    </table>### Exemplo da consulta em SQL:
 
 ```text
 SELECT store_id              AS "store_id", 
@@ -260,3 +255,6 @@ SELECT store_id              AS "store_id",
        tipo                  AS "tipo" 
 FROM   view_sellout  
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY4MjQ0OTg1Nl19
+-->
