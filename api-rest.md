@@ -12,5 +12,8 @@ A API Yandeh possui as seguintes características:
 
 Acesse a documentação abaixo com as informações necessárias para realizar a integração de forma rápida e segura.
 
-​[https://app.swaggerhub.com/apis/thiago.franca/erp-yandeh-integration/1.0.0.7](https://app.swaggerhub.com/apis/thiago.franca/erp-yandeh-integration/1.0.0.7)
+​[https://app.swaggerhub.com/apis/thiago.franca/erp-yandeh-integration/1.0.0.8](https://app.swaggerhub.com/apis/thiago.franca/erp-yandeh-integration/1.0.0.8)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyNDEwNTI4NjddfQ==
+-->
