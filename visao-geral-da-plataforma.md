@@ -15,9 +15,12 @@ Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá
 * Baixo custo de investimento
 * Solução técnica inovadora
 
-Para obter algumas informações sobre a plataforma, acesse o vídeo [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=0bBq_EpG8g0") 
+Para obter algumas informações sobre a plataforma, acesse o vídeo.
+```
+{% video width="740", height="350", loop="loop", controls="controls" %}https://www.domain.com/video.mp4{% endvideo %}
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDQ4MzI3XX0=
+eyJoaXN0b3J5IjpbMTM5Njc0MjMwOSwtNzgwNDgzMjddfQ==
 -->
