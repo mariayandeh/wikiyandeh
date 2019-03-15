@@ -1,2 +1,0 @@
-# Tabelas detalhadas e exemplos
-

@@ -6,7 +6,7 @@ description: >-
 
 # Sellin - Payment
 
-## Forma de Pagamento <a id="forma-de-pagamento"></a>
+## Forma de Pagamento  <a id="forma-de-pagamento"></a>
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :--- | :--- | :--- | :--- | :--- |
@@ -22,7 +22,7 @@ description: >-
 | nsu | NSU | string | – | – |
 | authorization | Autorização da transação | string | – | – |
 
-#### Exemplo da consulta em SQL:
+### Exemplo da consulta em SQL:
 
 ```text
 SELECT store_id         AS "store_id", 
@@ -36,6 +36,6 @@ SELECT store_id         AS "store_id",
        operation_id     AS "operation_id", 
        nsu              AS "nsu", 
        AUTHORIZATION    AS "authorization" 
-FROM   view_sellin_payment 
+FROM   view_sellin_payment
 ```
 

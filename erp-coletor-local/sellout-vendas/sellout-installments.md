@@ -6,7 +6,7 @@ description: >-
 
 # Sellout - Installments
 
-## Condição de Pagamento <a id="forma-de-pagamento"></a>
+## Condição de Pagamento  <a id="forma-de-pagamento"></a>
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :--- | :--- | :--- | :--- | :--- |
@@ -27,6 +27,6 @@ description: >-
            installment_number AS "installment_number", 
            amount             AS "amount", 
            payment_term       AS "payment_term" 
-    FROM   view_sellout_payment_installments 
+    FROM   view_sellout_payment_installments
 ```
 

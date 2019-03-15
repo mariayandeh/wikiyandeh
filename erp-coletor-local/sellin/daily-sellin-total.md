@@ -4,7 +4,7 @@ description: Modelo de Dados - "Daily_SellIn_Total" | Valor total de compra por 
 
 # Sellin - Daily Total
 
-### Compra total por dia
+## Compra total por dia
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :--- | :--- | :--- | :--- | :--- |
@@ -14,7 +14,7 @@ description: Modelo de Dados - "Daily_SellIn_Total" | Valor total de compra por 
 | quantity\* | Quantidade de documentos fiscais | integer | inteiro não-negativo | 3759 |
 | amount\* | Faturamento total | float | float não-negativo | 123457.93 |
 
-#### Exemplo da consulta em SQL:
+### Exemplo da consulta em SQL:
 
 ```text
 SELECT store_id  AS "store_id", 
@@ -23,6 +23,6 @@ SELECT store_id  AS "store_id",
        quantity AS "quantity", 
        amount   AS "amount" 
 FROM   view_dialy_sellin_total 
-GROUP  BY date 
+GROUP  BY date
 ```
 

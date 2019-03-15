@@ -4,7 +4,7 @@ description: Modelo de Dados - "Daily_Sellout_Total" | Valor total de venda por 
 
 # Sellout - Daily Total
 
-### Vendas total por dia
+## Vendas total por dia
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :--- | :--- | :--- | :--- | :--- |
@@ -14,7 +14,7 @@ description: Modelo de Dados - "Daily_Sellout_Total" | Valor total de venda por 
 | quantity\* | Quantidade de documentos fiscais | integer | inteiro não-negativo | 3759 |
 | amount\* | Faturamento total | float | float não-negativo | 123457.93 |
 
-#### Exemplo da consulta em SQL:
+### Exemplo da consulta em SQL:
 
 ```text
     SELECT store_id AS "store_id", 
@@ -23,6 +23,6 @@ description: Modelo de Dados - "Daily_Sellout_Total" | Valor total de venda por 
            quantity AS "quantity", 
            amount   AS "amount" 
     FROM   view_daily_sellout_total 
-    GROUP  BY date 
+    GROUP  BY date
 ```
 

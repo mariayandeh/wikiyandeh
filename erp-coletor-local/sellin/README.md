@@ -4,7 +4,7 @@ description: Modelo de Dados - Sellin | Compras de Fornecedor
 
 # Sellin \(Compras\)
 
-## SellIn - Cabeçalho <a id="sellin---cabe&#xE7;alho"></a>
+## SellIn - Cabeçalho  <a id="sellin---cabe&#xE7;alho"></a>
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :--- | :--- | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ description: Modelo de Dados - Sellin | Compras de Fornecedor
 | freight\_price | Valor do frete | float | – | 1.0 |
 | icms | Valor do ICMS sobre a compra | float | – | 2.9 |
 
-#### Exemplo da consulta em SQL:
+### Exemplo da consulta em SQL:
 
 ```text
 SELECT store_id             AS "store_id", 

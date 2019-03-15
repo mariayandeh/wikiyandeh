@@ -29,9 +29,7 @@ description: Modelo de Dados - "Sellout-Items" | Vendas aos Clientes (Itens)
 | quantity\* | Quantidade comprada do produto | integer | -- | 1 |
 | manufacturer\_code | Código do fabricante | string | -- | 8928329 |
 
-#### 
-
-#### Exemplo de consulta em SQL:
+## Exemplo de consulta em SQL:
 
 ```text
 SELECT store_id          AS "store_id", 
@@ -53,8 +51,6 @@ SELECT store_id          AS "store_id",
        measurement_unit  AS "measurement_unit", 
        unit_value        AS "unit_value", 
        quantity          AS "quantity" 
-FROM   view_sellout_items 
+FROM   view_sellout_items
 ```
-
-
 

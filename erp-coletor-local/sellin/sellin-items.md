@@ -4,7 +4,7 @@ description: Modelo de Dados - "Sellin-Items" | Compras de Fornecedor (Itens)
 
 # Sellin - Itens
 
-## Compras de Fornecedor - Itens <a id="sellin---itens"></a>
+## Compras de Fornecedor - Itens  <a id="sellin---itens"></a>
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :--- | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ description: Modelo de Dados - "Sellin-Items" | Compras de Fornecedor (Itens)
 | quantity\* | Quantidade do produto | float | Este valor deve ser enviado com 4 casas. decimais | 1.0000 |
 | manufacturer\_code | Código do fabricante | string | – | 8928329 |
 
-#### Exemplo da consulta em SQL:
+### Exemplo da consulta em SQL:
 
 ```text
 SELECT store_id         AS "store_id", 
@@ -41,6 +41,6 @@ SELECT store_id         AS "store_id",
        gross_total      AS "gross_total", 
        unit_value       AS "unit_value", 
        quantity         AS "quantity" 
-FROM   view_sellin_items 
+FROM   view_sellin_items
 ```
 
