@@ -4,7 +4,7 @@ description: >-
   Pagamento)
 ---
 
-# Vendas - Condições de Pagamentos
+# Vendas - Condiçõesão de PagaSellout - Installmentos
 
 ## Condição de Pagamento   <a id="forma-de-pagamento"></a>
 
@@ -30,3 +30,6 @@ description: >-
     FROM   view_sellout_payment_installments
 ```
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg3MjA0MjQ2XX0=
+-->
