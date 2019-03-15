@@ -34,6 +34,11 @@
 <p>Python</p>
 </li>
 </ul>
+<h1 id="exemplo">Exemplo</h1>
+<h3 id="categorias">Categorias</h3>
+<p>O método a ser usado deve ser :<code>GET</code></p>
+<p>A URL a ser usada deve ser: ``</p>
+<p>Método responsável por retornar as categorias do varejo.</p>
 <h2 id="segurança">Segurança</h2>
 <p>Estas operações devem ser executadas utilizando sua chave específica que chamamos de <strong>TOKEN</strong>, o mesmo será responsável por autenticar o acesso ao sistema.</p>
 <blockquote>
