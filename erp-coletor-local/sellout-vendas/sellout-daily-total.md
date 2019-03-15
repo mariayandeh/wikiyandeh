@@ -2,7 +2,7 @@
 description: Modelo de Dados - "Daily_Sellout_Total" | Valor total de venda por dia
 ---
 
-# Vendas - Total DiárioSellout - Daily Total
+# Vendas - Total Diário
 
 ## Vendas total por dia
 
