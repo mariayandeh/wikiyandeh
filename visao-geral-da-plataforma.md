@@ -10,13 +10,9 @@ Uma solução tecnológica inovadora que tem como objetivo aumentar a competitiv
 
 
 ## Do varejo brasileiro. Porque utilizar a ferramenta
-
 * Alertas em tempo real</li>
-<li>
 * Visão de mercado</li>
-<li>
 * Software inteligente que propõe ações para aumentar as vendas, diminuir as rupturas e melhorar as margens.</li>
-<li>
 * Ajuda o varejista a comprar melhor e com menor preço</li>
 <li>
 * Aumento da competitividade</li>
@@ -25,5 +21,5 @@ Uma solução tecnológica inovadora que tem como objetivo aumentar a competitiv
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIwNzA1ODQsMTU4NDc0MDYzOF19
+eyJoaXN0b3J5IjpbMTgyNTMxMjUyOSwxNTg0NzQwNjM4XX0=
 -->
