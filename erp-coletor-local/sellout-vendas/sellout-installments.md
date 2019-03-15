@@ -4,7 +4,7 @@ description: >-
   Pagamento)
 ---
 
-# Sellout - Installments
+# Vendas - Condição de Pagamento
 
 ## Condição de Pagamento  <a id="forma-de-pagamento"></a>
 

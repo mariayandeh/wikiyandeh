@@ -4,7 +4,7 @@ description: >-
   Pagamento)
 ---
 
-# Sellin - Payment
+# Compras - Forma de Pagamento
 
 ## Forma de Pagamento  <a id="forma-de-pagamento"></a>
 

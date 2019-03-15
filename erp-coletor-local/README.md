@@ -10,7 +10,7 @@ Esse modelo possui o seguinte fluxo:
 6. Instalação do Coletor personalizado na loja piloto selecionada pelo parceiro
 7. Pronto, aproveite ao máximo tudo que a Integração com a Yandeh pode oferecer para você!!
 
-A seguir, apresentamos o escopo reduzido: 
+A seguir, apresentamos o escopo reduzido:
 
 | Entidade | Descrição |
 | :--- | :--- |

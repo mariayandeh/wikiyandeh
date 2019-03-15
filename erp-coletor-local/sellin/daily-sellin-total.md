@@ -2,7 +2,7 @@
 description: Modelo de Dados - "Daily_SellIn_Total" | Valor total de compra por dia
 ---
 
-# Sellin - Daily Total
+# Compra - Total Diário
 
 ## Compra total por dia
 

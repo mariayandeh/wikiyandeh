@@ -1,26 +1,32 @@
----
+# Visão Geral da Plataforma
 
+Plataforma a software house e endas da Yandeh
 
----
+O que é?
 
-<h1 id=" plataforma-ivendas-da-yandeh">Plataforma a software house e endas da Yandeh</h1>
-<h2 id="o-que-é">O que é?</h2>
-<p>Uma solução tecnológica inovadora que tem como objetivo aumentar a competitividadevarejo brasieio.</p>
-<h2 id="vantagens-da-solução">Vantagens da solução</h2>
-<p>
-Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá-lo a lucrar mais. Com essa solução o varejista pode gerir no detalhe, identificando os problemas e oportunidades acionando os responsáveis pela solução.</p>
-<h2 id="poretilaraque-utilizar-a-ferramenta">Porque utilizar a ferramenta</h2>
-<ul>
-<li>Alertas em tempo real</li>
-* Visão de mercado* Software inteligente que propõe ações para aumentar as vendas, diminuir as rupturas e melhorar as margens.* Ajuda o varejista a comprar melhor e com menor preço
-<li>ento da competitividade</li>
-<li>Baixo custo de investimento</li>
-<li>Solução técnica inovadora</li>
-</ul>
-<p>Para obter algumas informações sobre a plataforma, acesse o vídeo.
-</p><p><img src="
-![Yandeh](https://i.imgur.com/OI5Y2Ay.png" alt="Yandeh">](<a href=")](https://www.youtube.com/watch?v=0bBq_EpG8g0">https://www.youtube.com/watch?v=0bBq_EpG8g0</a> “Yandeh”)</p> "Yandeh")
+Uma solução tecnológica inovadora que tem como objetivo aumentar a competitividadevarejo brasieio.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDgxMzY1NywzMTMyMTAzNjddfQ==
--->
+Vantagens da solução
+
+ Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá-lo a lucrar mais. Com essa solução o varejista pode gerir no detalhe, identificando os problemas e oportunidades acionando os responsáveis pela solução.
+
+Porque utilizar a ferramenta
+
+Alertas em tempo real
+
+* Visão de mercado _Software inteligente que propõe ações para aumentar as vendas, diminuir as rupturas e melhorar as margens._ Ajuda o varejista a comprar melhor e com menor preço
+
+  ento da competitividade
+
+  Baixo custo de investimento
+
+  Solução técnica inovadora
+
+  &lt;/ul&gt;
+
+  Para obter algumas informações sobre a plataforma, acesse o vídeo.
+
+  &lt;/p&gt;&lt;img src="
+
+  !\[Yandeh\]\([https://i.imgur.com/OI5Y2Ay.png](https://i.imgur.com/OI5Y2Ay.png)" alt="Yandeh"&gt;\]\([https://www.youtube.com/watch?v=0bBq\_EpG8g0](https://github.com/mariayandeh/wikiyandeh/tree/17c09206fe3bd5e417bb6543c8590fbac4233f8e/%29]%28https:/www.youtube.com/watch?v=0bBq_EpG8g0/README.md) “Yandeh”\)&lt;/p&gt; "Yandeh"\)
+

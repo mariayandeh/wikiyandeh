@@ -4,7 +4,7 @@ O objetivo da Integração API da Yandeh é permitir que o lojista continue util
 
 A API Yandeh possui as seguintes características:
 
- • Recursos REST, de forma que seja possível acessar por meio de semântica HTTP padrão.
+• Recursos REST, de forma que seja possível acessar por meio de semântica HTTP padrão.
 
 • Códigos de status HTTP para comunicar o sucesso/erro nas chamadas.
 
@@ -14,6 +14,3 @@ Acesse a documentação abaixo com as informações necessárias para realizar a
 
 ​[https://app.swaggerhub.com/apis/thiago.franca/erp-yandeh-integration/1.0.0.8](https://app.swaggerhub.com/apis/thiago.franca/erp-yandeh-integration/1.0.0.8)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDEwNTI4NjddfQ==
--->
