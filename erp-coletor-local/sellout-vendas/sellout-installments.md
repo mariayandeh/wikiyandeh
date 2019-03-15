@@ -30,6 +30,3 @@ description: >-
     FROM   view_sellout_payment_installments
 ```
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTAzMjEwMV19
--->

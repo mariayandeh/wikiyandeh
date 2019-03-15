@@ -4,7 +4,7 @@
 * [Visão Geral da Plataforma](visao-geral-da-plataforma.md)
 * [Arquitetura](arquitetura.md)
 * [Coletor ERP](erp-coletor-local/README.md)
-  * [Stores](erp-coletor-local/store.md)
+  * [Lojas](erp-coletor-local/store.md)
   * [Sellin \(Compras\)](erp-coletor-local/sellin/README.md)
     * [ComprasSellin - Itens](erp-coletor-local/sellin/sellin-items.md)
     * [Compras - Forma de PagaSellin - Paymento](erp-coletor-local/sellin/sellin-payment.md)
@@ -17,6 +17,3 @@
     * [Venda - Total DiárioSellout - Daily Total](erp-coletor-local/sellout-vendas/sellout-daily-total.md)
 * [API-REST](api-rest.md)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjMwMDAzNjJdfQ==
--->

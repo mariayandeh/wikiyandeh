@@ -4,7 +4,7 @@ description: Modelo de Dados - "Sellin-Items" | Compras de Fornecedor (Itens)
 
 # ComprasSellin - Itens
 
-## Compras de Fornecedor - Itens  <a id="sellin---itens"></a>
+## Compras de Fornecedor - Itens   <a id="sellin---itens"></a>
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :--- | :--- | :--- | :--- | :--- |
@@ -44,6 +44,3 @@ SELECT store_id         AS "store_id",
 FROM   view_sellin_items
 ```
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE4NDQ2NzldfQ==
--->

@@ -26,6 +26,3 @@ FROM   view_dialy_sellin_total
 GROUP  BY date
 ```
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDcwNjEwNzFdfQ==
--->

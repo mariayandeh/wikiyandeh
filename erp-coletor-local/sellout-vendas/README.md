@@ -256,6 +256,3 @@ SELECT store_id              AS "store_id",
 FROM   view_sellout
 ```
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg2NDc0N119
--->
