@@ -18,7 +18,9 @@ Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá
 Para obter algumas informações sobre a plataforma, acesse o vídeo.
 [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=0bBq_EpG8g0 "Everything Is AWESOME")
 
+[![Everything Is AWESOME](https://github.com/mariayandeh/wikiyandeh/blob/master/img-video.png)](https://www.youtube.com/watch?v=0bBq_EpG8g0 "Everything Is AWESOME")
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4OTAyMjQ3XX0=
+eyJoaXN0b3J5IjpbLTEzNTkzMjU1OCw0OTg5MDIyNDddfQ==
 -->
