@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="visão-geral-da-plataforma">Visão Geral da Plataforma</h1>
 <h2 id="o-que-é">O que é?</h2>
 <p>
@@ -29,5 +24,5 @@ Uma solução tecnológica inovadora que tem como objetivo aumentar a competitiv
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDc0MDYzOF19
+eyJoaXN0b3J5IjpbLTY2NzI4MjUxNiwxNTg0NzQwNjM4XX0=
 -->
