@@ -15,6 +15,9 @@ Informações estratégicas sobre sua loja e o mercado, e sugestões para ajudá
 * Solução técnica inovadora
 
 Para obter algumas informações sobre a plataforma, acesse o vídeo [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=0bBq_EpG8g0") 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM0NzgxNTJdfQ==
+eyJoaXN0b3J5IjpbLTEyNjMzNzM3NDAsLTIwODM0NzgxNTJdfQ
+==
 -->
