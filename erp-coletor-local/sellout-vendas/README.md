@@ -2,13 +2,13 @@
 description: Modelo de Dados - "SellOut" | Vendas para Clientes
 ---
 
-# Sellout \(Vendas\)
+# Vendas
 
 | A entidade Sellout  tem como registros cada uma das vendas realizadas para os clientes. Estando preparada para descrever cada um dos seguintes tipos fiscais: ECF, CF-e, NF-e e NFC-e. |
 | :--- |
 
 
-## SellOut <a id="sellin---itens"></a>
+## SellOut  <a id="sellin---itens"></a>
 
 <table>
   <thead>
@@ -116,11 +116,8 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       <td style="text-align:left">device_id</td>
       <td style="text-align:left">N&#xFA;mero do dispositivo</td>
       <td style="text-align:left">string</td>
-      <td style="text-align:left">
-        <p></p>
-        <p>Deve sempre ser fornecido para documentos do tipo ECF e em forma completa
-          (em vez de reduzida). <b>Tamanho m&#xE1;ximo de 50 caracteres</b>
-        </p>
+      <td style="text-align:left">Deve sempre ser fornecido para documentos do tipo ECF e em forma completa
+        (em vez de reduzida). <b>Tamanho m&#xE1;ximo de 50 caracteres</b>
       </td>
       <td style="text-align:left">&#x201C;BE1000199329329922&#x201D;</td>
     </tr>
@@ -229,9 +226,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       <td style="text-align:left">&#x201C;nfce&#x201D;</td>
     </tr>
   </tbody>
-</table>
-
-#### Exemplo da consulta em SQL:
+</table>### Exemplo da consulta em SQL:
 
 ```text
 SELECT store_id              AS "store_id", 
@@ -258,6 +253,6 @@ SELECT store_id              AS "store_id",
        iss                   AS "iss", 
        frete                 AS "frete", 
        tipo                  AS "tipo" 
-FROM   view_sellout  
+FROM   view_sellout
 ```
 

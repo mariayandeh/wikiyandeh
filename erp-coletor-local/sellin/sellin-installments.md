@@ -4,7 +4,7 @@ description: >-
   de Pagamento)
 ---
 
-# Compras - Condiçõesão de Pagamentos
+# Compras - Condições de Pagamentos
 
 ## Condição de Pagamento    <a id="forma-de-pagamento"></a>
 
