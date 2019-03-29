@@ -22,25 +22,39 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">store_id*</td>
-      <td style="text-align:left">Identificador interno da loja</td>
-      <td style="text-align:left">integer ou string</td>
-      <td style="text-align:left">--</td>
-      <td style="text-align:left">1</td>
+      <td style="text-align:left"><b>store_id*</b>
+      </td>
+      <td style="text-align:left"><b>Identificador interno da loja</b>
+      </td>
+      <td style="text-align:left"><b>integer ou string</b>
+      </td>
+      <td style="text-align:left"><b>--</b>
+      </td>
+      <td style="text-align:left"><b>1</b>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left">id*</td>
-      <td style="text-align:left">Identificador da venda</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">tamanho m&#xE1;ximo de 50 caracteres</td>
-      <td style="text-align:left">&#x201C;RCNTH345987&#x201D;</td>
+      <td style="text-align:left"><b>id*</b>
+      </td>
+      <td style="text-align:left"><b>Identificador da venda</b>
+      </td>
+      <td style="text-align:left"><b>string</b>
+      </td>
+      <td style="text-align:left"><b>tamanho m&#xE1;ximo de 50 caracteres</b>
+      </td>
+      <td style="text-align:left"><b>&#x201C;RCNTH345987&#x201D;</b>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left">sellout_timestamp*</td>
-      <td style="text-align:left">Data e hora da venda</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">satisfazer o padr&#xE3;o &#x201C;YYYY-MM-DDTHH:MM:SS&#x201D;</td>
-      <td style="text-align:left">&#x201C;2017-08-20T14:55:08&#x201D;</td>
+      <td style="text-align:left"><b>sellout_timestamp*</b>
+      </td>
+      <td style="text-align:left"><b>Data e hora da venda</b>
+      </td>
+      <td style="text-align:left"><b>string</b>
+      </td>
+      <td style="text-align:left"><b>satisfazer o padr&#xE3;o &#x201C;YYYY-MM-DDTHH:MM:SS&#x201D;</b>
+      </td>
+      <td style="text-align:left"><b>&#x201C;2017-08-20T14:55:08</b>&#x201D;</td>
     </tr>
     <tr>
       <td style="text-align:left">nome_operador</td>
@@ -57,11 +71,16 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       <td style="text-align:left">&#x201C;Ana Maria&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">store_taxpayer_id*</td>
-      <td style="text-align:left">CNPJ da loja que realizou a venda</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">tamanho exato de 14 caracteres</td>
-      <td style="text-align:left">&#x201C;05345647000122&#x201D;</td>
+      <td style="text-align:left"><b>store_taxpayer_id*</b>
+      </td>
+      <td style="text-align:left"><b>CNPJ da loja que realizou a venda</b>
+      </td>
+      <td style="text-align:left"><b>string</b>
+      </td>
+      <td style="text-align:left"><b>tamanho exato de 14 caracteres</b>
+      </td>
+      <td style="text-align:left"><b>&#x201C;05345647000122&#x201D;</b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">buyer_taxpayer_id</td>
@@ -130,36 +149,55 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
         <td style="text-align:left">&#x201C;83230677323&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">sales_addition*</td>
-      <td style="text-align:left">Valor de acr&#xE9;scimo na venda</td>
-      <td style="text-align:left">float</td>
-      <td style="text-align:left">--</td>
-      <td style="text-align:left">0.50</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">sales_discount*</td>
-      <td style="text-align:left">Valor de desconto na venda</td>
-      <td style="text-align:left">float</td>
-      <td style="text-align:left">--</td>
-      <td style="text-align:left">1.75</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">subtotal*</td>
-      <td style="text-align:left">Valor do subtotal da venda</td>
-      <td style="text-align:left">float</td>
-      <td style="text-align:left">--</td>
-      <td style="text-align:left">5.93</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">cancellation_flag*</td>
-      <td style="text-align:left">Indica se a venda foi cancelada ou n&#xE3;o</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">
-        <p>limita-se apenas aos valores:</p>
-        <p>&#x25CF; &#x201C;N&#x201D; : venda n&#xE3;o-cancelada &#x25CF; &#x201C;S&#x201D;
-          : venda cancelada</p>
+      <td style="text-align:left"><b>sales_addition*</b>
       </td>
-      <td style="text-align:left">&#x201C;N&#x201D;</td>
+      <td style="text-align:left"><b>Valor de acr&#xE9;scimo na venda</b>
+      </td>
+      <td style="text-align:left"><b>float</b>
+      </td>
+      <td style="text-align:left"><b>--</b>
+      </td>
+      <td style="text-align:left"><b>0.50</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>sales_discount*</b>
+      </td>
+      <td style="text-align:left"><b>Valor de desconto na venda</b>
+      </td>
+      <td style="text-align:left"><b>float</b>
+      </td>
+      <td style="text-align:left"><b>--</b>
+      </td>
+      <td style="text-align:left"><b>1.75</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>subtotal*</b>
+      </td>
+      <td style="text-align:left"><b>Valor do subtotal da venda</b>
+      </td>
+      <td style="text-align:left"><b>float</b>
+      </td>
+      <td style="text-align:left"><b>--</b>
+      </td>
+      <td style="text-align:left"><b>5.93</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>cancellation_flag*</b>
+      </td>
+      <td style="text-align:left"><b>Indica se a venda foi cancelada ou n&#xE3;o</b>
+      </td>
+      <td style="text-align:left"><b>string</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>limita-se apenas aos valores:</b>
+        </p>
+        <p><b>&#x25CF; &#x201C;N&#x201D; : venda n&#xE3;o-cancelada &#x25CF; &#x201C;S&#x201D; : venda cancelada</b>
+        </p>
+      </td>
+      <td style="text-align:left"><b>&#x201C;N</b>&#x201D;</td>
     </tr>
     <tr>
       <td style="text-align:left">operation</td>

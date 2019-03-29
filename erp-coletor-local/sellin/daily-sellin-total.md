@@ -4,15 +4,19 @@ description: Modelo de Dados - "Daily_SellIn_Total" | Valor total de compra por 
 
 # Compras - Total Diário
 
+Modelo de Dados - "Daily\_SellIn\_Total" \| Valor total de compra por dia.
+
+Essa entidade não é obrigatória para o Escopo Reduzido \(MVP1\).
+
 ## Compra total por dia
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :--- | :--- | :--- | :--- | :--- |
-| store\_id\* | Identificador interno da loja | integer ou string | -- | 1 |
-| date\* | Data do dia | string | satisfazer o padrão “YYYY-MM-DD” | “2018-08-13” |
-| type\* | Indica qual o tipo de documento fiscal | string | limita-se apenas aos valores:“nfe”: Nota Fiscal Eletrônica | “nfe” |
-| quantity\* | Quantidade de documentos fiscais | integer | inteiro não-negativo | 3759 |
-| amount\* | Faturamento total | float | float não-negativo | 123457.93 |
+| **store\_id\*** | **Identificador interno da loja** | **integer ou string** | **--** | **1** |
+| **date\*** | **Data do dia** | **string** | **satisfazer o padrão “YYYY-MM-DD”** | **“2018-08-13”** |
+| **type\*** | **Indica qual o tipo de documento fiscal** | **string** | **limita-se apenas aos valores:“nfe”: Nota Fiscal Eletrônica** | **“nfe”** |
+| **quantity\*** | **Quantidade de documentos fiscais** | **integer** | **inteiro não-negativo** | **3759** |
+| **amount\*** | **Faturamento total** | **float** | **float não-negativo** | **123457.93** |
 
 \*Campos obrigatórios
 
