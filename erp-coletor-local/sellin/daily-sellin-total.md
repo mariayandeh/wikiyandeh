@@ -6,7 +6,7 @@ description: Modelo de Dados - "Daily_SellIn_Total" | Valor total de compra por 
 
 Modelo de Dados - "Daily\_SellIn\_Total" \| Valor total de compra por dia.
 
-Essa entidade não é obrigatória para o Escopo Reduzido \(MVP1\).
+_Essa entidade não é obrigatória para o Escopo Reduzido \(MVP1\)._
 
 ## Compra total por dia
 
