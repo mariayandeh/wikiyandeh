@@ -10,6 +10,6 @@ O objetivo dessa documentação é facilitar o processo de desenvolvimento e for
 
 Atualmente a Yandeh está disponível:
 
-* Coletor-ERP
-* API-REST
+* [Coletor-ERP](erp-coletor-local/)
+* [API-REST](api-rest.md)
 
