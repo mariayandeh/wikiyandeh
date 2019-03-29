@@ -4,11 +4,13 @@ Esse modelo possui o seguinte fluxo:
 
 1. Leitura da documentação sobre a Coletor ERP.
 2. Criação das query’s através das views
-3. Envio das views para validação dos dados.
-4. Cadastro da loja piloto pela plataforma do ERP, através do formulário.
-5. Recebimento da requisição pela equipe de suporte e instalação
-6. Instalação do Coletor personalizado na loja piloto selecionada pelo parceiro
-7. Pronto, aproveite ao máximo tudo que a Integração com a Yandeh pode oferecer para você!!
+3. Instalação Monitorada - Homologação
+4. Validação das views por parte do nosso time Yandeh. 
+5. Validação dos dados recebidos.
+6. Cadastro da loja piloto no Portal ERP.
+7. Instalação do Coletor personalizado na loja piloto selecionada pelo parceiro.
+8. Validação dos dados recebidos da loja piloto.
+9. Pronto, aproveite ao máximo tudo que a Integração com a Yandeh pode oferecer para você!!
 
 A seguir, apresentamos o escopo reduzido:
 
