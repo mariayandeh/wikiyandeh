@@ -2,7 +2,6 @@
 
 * [Documentação Yandeh - Integração](README.md)
 * [Visão](visao-geral-da-plataforma.md)
-* [Arquitetura](arquitetura.md)
 * [Coletor ERP](erp-coletor-local/README.md)
   * [Lojas](erp-coletor-local/store.md)
   * [Compras](erp-coletor-local/sellin/README.md)
