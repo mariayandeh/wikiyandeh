@@ -33,8 +33,8 @@ description: Modelo de Dados - "Sellout-Items" | Vendas aos Clientes (Itens)
 
 ```text
 SELECT store_id          AS "store_id", 
-       sellout_timestamp AS "sellout_timestamp", 
        id                AS "id", 
+       sellout_timestamp AS "sellout_timestamp",
        sku               AS "sku", 
        code              AS "code", 
        isbn              AS "isbn", 
