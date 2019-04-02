@@ -7,7 +7,7 @@ description: Modelo de Dados - Sellin | Compras de Fornecedor
 ## SellIn - Cabeçalho    <a id="sellin---cabe&#xE7;alho"></a>
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
-| :--- | :--- | :--- | :--- | :--- |
+| :---: | :--- | :--- | :--- | :--- |
 | **store\_id**\* | **Identificador interno da loja** | **integer ou string** | **–** | **1** |
 | **id**\* | **Identificador \(NF\) da compra** | **string** | **tamanho máximo de 50 caracteres** | **“RCNTH345987”** |
 | **supplier\_taxpayer\_id\*** | **CNPJ do Fornecedor** | **string** | **tamanho máximo de 14 caracteres** | **“14463765000172”** |

@@ -9,7 +9,7 @@ description: >-
 ## Condição de Pagamento    <a id="forma-de-pagamento"></a>
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
-| :--- | :--- | :--- | :--- | :--- |
+| :---: | :--- | :--- | :--- | :--- |
 | **store\_id\*** | **Identificador interno da loja** | **integer ou string** | **–** | **1** |
 | **sellin\_timestamp\*** | **Data e hora da compra** | **string** | **satisfazer o padrão “YYYY-MM-DDTHH:MM:SS”** | **“2017-08-20T14:55:08”** |
 | **id\*** | **Identificador \(NF\) da compra** | **string** | **tamanho máximo de 50 caracteres** | **“RCNTH345987”** |

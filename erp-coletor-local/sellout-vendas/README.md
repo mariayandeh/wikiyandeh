@@ -13,7 +13,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Campo</th>
+      <th style="text-align:center">Campo</th>
       <th style="text-align:left">Descri&#xE7;&#xE3;o</th>
       <th style="text-align:left">Tipo</th>
       <th style="text-align:left">Restri&#xE7;&#xF5;es</th>
@@ -22,7 +22,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>store_id*</b>
+      <td style="text-align:center"><b>store_id*</b>
       </td>
       <td style="text-align:left"><b>Identificador interno da loja</b>
       </td>
@@ -34,7 +34,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>id*</b>
+      <td style="text-align:center"><b>id*</b>
       </td>
       <td style="text-align:left"><b>Identificador da venda</b>
       </td>
@@ -46,7 +46,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>sellout_timestamp*</b>
+      <td style="text-align:center"><b>sellout_timestamp*</b>
       </td>
       <td style="text-align:left"><b>Data e hora da venda</b>
       </td>
@@ -57,21 +57,21 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       <td style="text-align:left"><b>&#x201C;2017-08-20T14:55:08</b>&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">nome_operador</td>
+      <td style="text-align:center">nome_operador</td>
       <td style="text-align:left">Nome do operador do PDV</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">--</td>
       <td style="text-align:left">&#x201C;Maria Cristina&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">nome_vendedor</td>
+      <td style="text-align:center">nome_vendedor</td>
       <td style="text-align:left">Nome do vendedor</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">--</td>
       <td style="text-align:left">&#x201C;Ana Maria&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>store_taxpayer_id*</b>
+      <td style="text-align:center"><b>store_taxpayer_id*</b>
       </td>
       <td style="text-align:left"><b>CNPJ da loja que realizou a venda</b>
       </td>
@@ -83,28 +83,28 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">buyer_taxpayer_id</td>
+      <td style="text-align:center">buyer_taxpayer_id</td>
       <td style="text-align:left">CPF ou CNPJ do comprador final</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">tamanho exato de 11 ou 14 caracteres</td>
       <td style="text-align:left">&#x201C;83230677323&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">checkout_id</td>
+      <td style="text-align:center">checkout_id</td>
       <td style="text-align:left">Identificador do ponto de venda</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">--</td>
       <td style="text-align:left">&#x201C;2938923&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">receipt_number</td>
+      <td style="text-align:center">receipt_number</td>
       <td style="text-align:left">N&#xFA;mero do documento fiscal (NF-e/NFC-e/CF-e)</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">tamanho m&#xE1;ximo de 50 caracteres</td>
       <td style="text-align:left">&#x201C;33093&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">receipt_series_number</td>
+      <td style="text-align:center">receipt_series_number</td>
       <td style="text-align:left">S&#xE9;rie do documento fiscal (NF-e/NFC-e/CF-e) ou CCF (ECF)</td>
       <td
       style="text-align:left">string</td>
@@ -113,14 +113,14 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
         style="text-align:left">&#x201C;27&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">coo</td>
+      <td style="text-align:center">coo</td>
       <td style="text-align:left">N&#xFA;mero do COO (ECF)</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">Campo obrigat&#xF3;rio para documentos tipo ECF</td>
       <td style="text-align:left">&#x201C;123742&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">nfe_access_key</td>
+      <td style="text-align:center">nfe_access_key</td>
       <td style="text-align:left">Chave do documento NFC-e/CF-e associado &#xE0; venda</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">Satisfazer o padr&#xE3;o exato de come&#xE7;ar com 3 caracteres de tipo
@@ -132,7 +132,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">device_id</td>
+      <td style="text-align:center">device_id</td>
       <td style="text-align:left">N&#xFA;mero do dispositivo</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">Deve sempre ser fornecido para documentos do tipo ECF e em forma completa
@@ -141,7 +141,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       <td style="text-align:left">&#x201C;BE1000199329329922&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">seller_id</td>
+      <td style="text-align:center">seller_id</td>
       <td style="text-align:left">CPF do vendedor associado a esta, caso exista vendedor relacionado</td>
       <td
       style="text-align:left">string</td>
@@ -149,7 +149,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
         <td style="text-align:left">&#x201C;83230677323&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>sales_addition*</b>
+      <td style="text-align:center"><b>sales_addition*</b>
       </td>
       <td style="text-align:left"><b>Valor de acr&#xE9;scimo na venda</b>
       </td>
@@ -161,7 +161,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>sales_discount*</b>
+      <td style="text-align:center"><b>sales_discount*</b>
       </td>
       <td style="text-align:left"><b>Valor de desconto na venda</b>
       </td>
@@ -173,7 +173,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>subtotal*</b>
+      <td style="text-align:center"><b>subtotal*</b>
       </td>
       <td style="text-align:left"><b>Valor do subtotal da venda</b>
       </td>
@@ -185,7 +185,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>cancellation_flag*</b>
+      <td style="text-align:center"><b>cancellation_flag*</b>
       </td>
       <td style="text-align:left"><b>Indica se a venda foi cancelada ou n&#xE3;o</b>
       </td>
@@ -200,7 +200,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       <td style="text-align:left"><b>&#x201C;N</b>&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">operation</td>
+      <td style="text-align:center">operation</td>
       <td style="text-align:left">Tipo da opera&#xE7;&#xE3;o realizada</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">
@@ -215,7 +215,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       <td style="text-align:left">&#x201C;E&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:left">transaction_type</td>
+      <td style="text-align:center">transaction_type</td>
       <td style="text-align:left">Indica qual tipo de transa&#xE7;&#xE3;o realizada</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">
@@ -230,28 +230,28 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       <td style="text-align:left">&quot;P&quot;</td>
     </tr>
     <tr>
-      <td style="text-align:left">ipi</td>
+      <td style="text-align:center">ipi</td>
       <td style="text-align:left">Valor do IPI sobre a venda</td>
       <td style="text-align:left">float</td>
       <td style="text-align:left">--</td>
       <td style="text-align:left">1.87</td>
     </tr>
     <tr>
-      <td style="text-align:left">iss</td>
+      <td style="text-align:center">iss</td>
       <td style="text-align:left">Valor do ISS sobre a venda</td>
       <td style="text-align:left">float</td>
       <td style="text-align:left">--</td>
       <td style="text-align:left">1.01</td>
     </tr>
     <tr>
-      <td style="text-align:left">frete</td>
+      <td style="text-align:center">frete</td>
       <td style="text-align:left">Valor de frete da venda</td>
       <td style="text-align:left">float</td>
       <td style="text-align:left">--</td>
       <td style="text-align:left">25.98</td>
     </tr>
     <tr>
-      <td style="text-align:left">tipo</td>
+      <td style="text-align:center">tipo</td>
       <td style="text-align:left">Indica qual tipo de documento fiscal</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">

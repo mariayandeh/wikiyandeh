@@ -11,7 +11,7 @@ Modelo de Dados - "Daily\_Sellout\_Total" \| Valor total de venda por dia.
 ## Vendas total por dia
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
-| :--- | :--- | :--- | :--- | :--- |
+| :---: | :--- | :--- | :--- | :--- |
 | **store\_id\*** | **Identificador interno da loja** | **integer ou string** | **--** | **1** |
 | **date\*** | **Data do dia** | **string** | **satisfazer o padrão “YYYY-MM-DD”** | **“2018-08-13”** |
 | **type\*** | **Indica qual o tipo de documento fiscal** | **string** | **limita-se apenas aos valores:“nfe”: Nota Fiscal Eletrônica** | **“nfe”** |
