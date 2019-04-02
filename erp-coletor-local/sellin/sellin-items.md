@@ -42,7 +42,8 @@ SELECT store_id         AS "store_id",
        measurement_unit AS "measurement_unit", 
        gross_total      AS "gross_total", 
        unit_value       AS "unit_value", 
-       quantity         AS "quantity" 
+       quantity         AS "quantity"
+       manufacturer_code AS "manufacturer_code"   
 FROM   view_sellin_items
 ```
 
