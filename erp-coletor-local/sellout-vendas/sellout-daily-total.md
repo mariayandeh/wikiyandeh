@@ -6,7 +6,7 @@ description: Modelo de Dados - "Daily_Sellout_Total" | Valor total de venda por 
 
 Modelo de Dados - "Daily\_Sellout\_Total" \| Valor total de venda por dia.
 
-_Essa entidade não é obrigatória para o Escopo Reduzido \(MVP1\)._
+**Essa entidade não é obrigatória para o Escopo Reduzido \(MVP1\).**
 
 ## Vendas total por dia
 
