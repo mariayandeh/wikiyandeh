@@ -22,10 +22,10 @@ description: >-
 ### Exemplo da consulta em SQL:
 
 ```text
- SELECT store_id           AS "store_id", 
+ SELECT store_id          AS "store_id", 
        sellin_timestamp   AS "sellin_timestamp", 
        id                 AS "id", 
-       payment_id         AS "payment_id", 
+       payment_method_id  AS "payment_id", 
        installment_number AS "installment_number", 
        amount             AS "amount", 
        payment_term       AS "payment_term" 
