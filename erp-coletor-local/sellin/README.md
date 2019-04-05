@@ -1,4 +1,3 @@
----
 description: Modelo de Dados - Sellin | Compras de Fornecedor
 ---
 
@@ -21,8 +20,8 @@ description: Modelo de Dados - Sellin | Compras de Fornecedor
 | insurance\_price | Valor do seguro | float | – | 2.0 |
 | **gross\_total\*** | **Valor total da NF. Este valor deve vir com 4 casas decimais** | **float** | **–** | **5.99** |
 | **cancellation\_flag\*** | **Indica se esta compra foi cancelada ou não** | **string** | **Valores aceitos: “S” — para sim e “N” — para não** | **“S”** |
-| **nfe\_series**\**_number** | **Número de Série da Nota Fiscal** | **integer** | – | **1** |
-| **nfe\_number** | **Número da Nota Fiscal** | **integer** | – | **1267232** |
+| **nfe\_series\_number*** | **Número de Série da Nota Fiscal** | **integer** | – | **1** |
+| **nfe\_number***| **Número da Nota Fiscal** | **integer** | – | **1267232** |
 | sales\_addition | Valor de acréscimo na compra | float | Este valor deve vir com 4 casas decimais | 4.55 |
 | **store\_taxpayer\_id\*** | **CNPJ da loja** | **string** | **tamanho máximo de 14 caracteres** | **“14463765000100”** |
 | **net\_total\*** | **Valor total da NF sem impostos e frete** | **float** | **Este valor deve vir com 4 casas decimais** | **4.99** |
@@ -54,5 +53,6 @@ SELECT store_id             AS "store_id",
        id                   AS "id" 
 FROM   view_sellin
 ```
+
 
 
