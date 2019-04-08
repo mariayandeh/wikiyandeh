@@ -4,7 +4,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
 
 # Vendas
 
-| A entidade Sellout  tem como registros cada uma das vendas realizadas para os clientes. Estando preparada para descrever cada um dos seguintes tipos fiscais: ECF, CF-e, NF-e e NFC-e. |
+| A entidade Sellout  tem como registros cada uma das vendas realizadas para os clientes. Estando preparada para descrever cada um dos seguintes tipos fiscais: ECF, CF-e, NF-e e NFC-e, SAT. |
 | :--- |
 
 
@@ -97,14 +97,16 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       <td style="text-align:left">&#x201C;2938923&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:center">receipt_number</td>
+      <td style="text-align:center"><b>receipt_number*</b>
+      </td>
       <td style="text-align:left">N&#xFA;mero do documento fiscal (NF-e/NFC-e/CF-e)</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">tamanho m&#xE1;ximo de 50 caracteres</td>
       <td style="text-align:left">&#x201C;33093&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:center">receipt_series_number</td>
+      <td style="text-align:center"><b>receipt_series_number*</b>
+      </td>
       <td style="text-align:left">S&#xE9;rie do documento fiscal (NF-e/NFC-e/CF-e) ou CCF (ECF)</td>
       <td
       style="text-align:left">string</td>
@@ -113,14 +115,15 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
         style="text-align:left">&#x201C;27&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:center">coo</td>
+      <td style="text-align:center"><b>coo*</b>
+      </td>
       <td style="text-align:left">N&#xFA;mero do COO (ECF)</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">Campo obrigat&#xF3;rio para documentos tipo ECF</td>
       <td style="text-align:left">&#x201C;123742&#x201D;</td>
     </tr>
     <tr>
-      <td style="text-align:center">nfe_access_key</td>
+      <td style="text-align:center"><b>nfe_access_key</b>*</td>
       <td style="text-align:left">Chave do documento NFC-e/CF-e associado &#xE0; venda</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">Satisfazer o padr&#xE3;o exato de come&#xE7;ar com 3 caracteres de tipo
@@ -132,7 +135,8 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       </td>
     </tr>
     <tr>
-      <td style="text-align:center">device_id</td>
+      <td style="text-align:center"><b>device_id*</b>
+      </td>
       <td style="text-align:left">N&#xFA;mero do dispositivo</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">Deve sempre ser fornecido para documentos do tipo ECF e em forma completa
@@ -251,7 +255,8 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       <td style="text-align:left">25.98</td>
     </tr>
     <tr>
-      <td style="text-align:center">tipo</td>
+      <td style="text-align:center"><b>tipo*</b>
+      </td>
       <td style="text-align:left">Indica qual tipo de documento fiscal</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">

@@ -15,14 +15,15 @@ description: Modelo de Dados - "Sellin-Items" | Compras de Fornecedor (Itens)
 | isbn | ISBN | string | Tamanho mínimo de 10 caracteres e máximo de 13 caracteres | – |
 | **description\*** | **Descrição do produto** | **string** | **tamanho máximo de 50 caracteres** | **“Castanha portuguesa”** |
 | **ean\*** | **Código de barras do produto, se houver. Este campo aceita tanto EAN-13 quanto DUN-14** | **string** | **tamanho máximo de 14 caracteres** | **“7891149201006”** |
-| addition | Valor de acréscimo total neste item | float | Este valor deve ser enviado com 4 casas. decimais | 34.5698 |
-| discount | Valor de desconto total neste item | float | Este valor deve ser enviado com 4 casas. decimais | 34.5698 |
+| **addition\*** | Valor de acréscimo total neste item | float | Este valor deve ser enviado com 4 casas. decimais | 34.5698 |
+| **discount\*** | Valor de desconto total neste item | float | Este valor deve ser enviado com 4 casas. decimais | 34.5698 |
 | **net\_total\*** | **Valor total das unidades vendidas, sem impostos e frete** | **float** | **Este valor deve ser enviado com 4 casas. decimais** | **56.9805** |
 | measurement\_unit | Unidade de medida | string | – | “UN” |
 | **gross\_total\*** | **Valor total das unidades vendidas, sem desconto ou acréscimo** | **float** | **Este valor deve ser enviado com 4 casas. decimais** | **56.98** |
 | **unit\_value\*** | **Valor unitário do produto, sem desconto ou acréscimo** | **float** | **Este valor deve ser enviado com 4 casas. decimais** | **45.98** |
 | **quantity\*** | **Quantidade do produto** | **float** | **Este valor deve ser enviado com 4 casas. decimais** | **1.0000** |
 | manufacturer\_code | Código do fabricante | string | – | 8928329 |
+| **icms\*** | **Valor do ICMS sobre a compra** | **float** | **–** | **2,9** |
 
 \*Campos obrigatórios
 

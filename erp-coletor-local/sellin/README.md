@@ -1,9 +1,10 @@
-description: Modelo de Dados - Sellin | Compras de Fornecedor
----
-
 # Compras
 
-## SellIn - Cabeçalho    <a id="sellin---cabe&#xE7;alho"></a>
+### description: Modelo de Dados - Sellin \| Compras de Fornecedor
+
+## Compras
+
+### SellIn - Cabeçalho     <a id="sellin---cabe&#xE7;alho"></a>
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
 | :---: | :--- | :--- | :--- | :--- |
@@ -11,24 +12,24 @@ description: Modelo de Dados - Sellin | Compras de Fornecedor
 | **id**\* | **Identificador \(NF\) da compra** | **string** | **tamanho máximo de 50 caracteres** | **“RCNTH345987”** |
 | **supplier\_taxpayer\_id\*** | **CNPJ do Fornecedor** | **string** | **tamanho máximo de 14 caracteres** | **“14463765000172”** |
 | **sellin\_timestamp\*** | **Data e hora da compra** | **string** | **satisfazer o padrão “YYYY-MM-DDTHH:MM:SS”** | **“2017-08-20T14:55:08”** |
-| **nfe\_access\_key** | **Chave de acesso para NFe/SAT** | **string** | **tamanho máximo de 50 caracteres** | **“NFe31170901704848000164550020000018481058491134”**|
+| **nfe\_access\_key\*** | **Chave de acesso para NFe/SAT** | **string** | **tamanho máximo de 50 caracteres** | **“NFe31170901704848000164550020000018481058491134”** |
 | other\_expenses | Outras despesas | float | – | 1.99 |
 | seller\_id | CPF do vendedor associado a esta NF, caso exista vendedor relacionado | string | tamanho máximo de 11 caracteres | “RCNTH345987” |
 | ipi | Valor do IPI sobre a compra | float | – | 1.87 |
 | iss | Valor do ISS sobre a compra | float | – | 1.01 |
-| sales\_discount | Valor de desconto na compra | float | – | 5.99 |
+| **sales\_discount\*** | Valor de desconto na compra | float | – | 5.99 |
 | insurance\_price | Valor do seguro | float | – | 2.0 |
-| **gross\_total\*** | **Valor total da NF. Este valor deve vir com 4 casas decimais** | **float** | **–** | **5.99** |
+| **gross\_total\*** | **Valor total da NF. Este valor deve vir com 4 casas decimais** | **float** | **–** | **5.9999** |
 | **cancellation\_flag\*** | **Indica se esta compra foi cancelada ou não** | **string** | **Valores aceitos: “S” — para sim e “N” — para não** | **“S”** |
-| **nfe\_series\_number*** | **Número de Série da Nota Fiscal** | **integer** | – | **1** |
-| **nfe\_number***| **Número da Nota Fiscal** | **integer** | – | **1267232** |
-| sales\_addition | Valor de acréscimo na compra | float | Este valor deve vir com 4 casas decimais | 4.55 |
+| **nfe\_series\_number\*** | **Número de Série da Nota Fiscal** | **integer** | – | **1** |
+| **nfe\_number\*** | **Número da Nota Fiscal** | **integer** | – | **1267232** |
+| **sales\_addition\*** | Valor de acréscimo na compra | float | Este valor deve vir com 4 casas decimais | 4.55 |
 | **store\_taxpayer\_id\*** | **CNPJ da loja** | **string** | **tamanho máximo de 14 caracteres** | **“14463765000100”** |
-| **net\_total\*** | **Valor total da NF sem impostos e frete** | **float** | **Este valor deve vir com 4 casas decimais** | **4.99** |
+| **net\_total\*** | **Valor total da NF sem impostos e frete** | **float** | **Este valor deve vir com 4 casas decimais** | **4.9999** |
 | freight\_price | Valor do frete | float | – | 1.0 |
-| icms | Valor do ICMS sobre a compra | float | – | 2.9 |
+| **icms\*** | Valor do ICMS sobre a compra | float | – | 2.9 |
 
-### Exemplo da consulta em SQL:
+#### Exemplo da consulta em SQL:
 
 ```text
 SELECT store_id             AS "store_id", 
@@ -53,6 +54,4 @@ SELECT store_id             AS "store_id",
        id                   AS "id" 
 FROM   view_sellin
 ```
-
-
 
