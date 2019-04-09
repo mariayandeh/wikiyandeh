@@ -16,14 +16,14 @@ description: Modelo de Dados - "Sellout-Items" | Vendas aos Clientes (Itens)
 | isbn | ISBN | string | tamanho mínimo de 10 e máximo de 13 caracteres | “9783161484100” |
 | **description\*** | **Descrição do produto ou serviço** | **string** | **tamanho máximo de 100 caracteres** | **“CASTANHA DO PARÁ INTEIRA”** |
 | **cancellation\_flag\*** | **Indica se este item foi cancelado** | **string** | **limita-se apenas aos valores: “S”: item cancelado “N”: item não cancelado** | **"N"** |
-| **item\_addition\*** | **Valor de acréscimo do item** | **float** | **--** | **4.98** |
-| frete | Valor de frete do item | float | -- | 25.98 |
+| **item\_addition\*** | **Valor de acréscimo do item** | **float** | **--** | **4.9800** |
+| frete | Valor de frete do item | float | -- | 25.9800 |
 | cfop | Código Fiscal de Operações e Prestações | integer | -- | 1103 |
-| **item\_discount\*** | **Valor de desconto do item** | **float** | **--** | **4.98** |
-| ipi | Valor do IPI sobre o item | float | -- | 1.87 |
-| icms | Valor do ICMS sobre o item | float | -- | 2.5 |
-| pis | Valor do PIS sobre o item | float | -- | 1.5 |
-| cofins | Valor do COFINS sobre o item | float | -- | 1.5 |
+| **item\_discount\*** | **Valor de desconto do item** | **float** | **--** | **4.9800** |
+| ipi | Valor do IPI sobre o item | float | -- | 1.8700 |
+| icms | Valor do ICMS sobre o item | float | -- | 2.5000 |
+| pis | Valor do PIS sobre o item | float | -- | 1.5000 |
+| cofins | Valor do COFINS sobre o item | float | -- | 1.5000 |
 | **measurement\_unit\*** | **Unidade de medida** | **string** | **--** | **"KG"** |
 | **unit\_value\*** | **Valor unitário do produto. Este valor deve vir com 4 casas decimais** | **float** | **--** | **4.9888** |
 | **quantity\*** | **Quantidade comprada do produto** | **integer** | **--** | **1** |

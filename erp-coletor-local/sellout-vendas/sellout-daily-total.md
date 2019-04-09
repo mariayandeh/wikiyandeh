@@ -16,7 +16,7 @@ Modelo de Dados - "Daily\_Sellout\_Total" \| Valor total de venda por dia.
 | **date\*** | **Data do dia** | **string** | **satisfazer o padrão “YYYY-MM-DD”** | **“2018-08-13”** |
 | **type\*** | **Indica qual o tipo de documento fiscal** | **string** | **limita-se apenas aos valores:“nfe”: Nota Fiscal Eletrônica** | **“nfe”** |
 | **quantity\*** | **Quantidade de documentos fiscais** | **integer** | **inteiro não-negativo** | **3759** |
-| **amount\*** | **Faturamento total** | **float** | **float não-negativo** | **123457.9**3 |
+| **amount\*** | **Faturamento total** | **float** | **float não-negativo** | **123457.9300** |
 
 ### Exemplo da consulta em SQL:
 

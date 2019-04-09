@@ -19,11 +19,11 @@ description: Modelo de Dados - "Sellin-Items" | Compras de Fornecedor (Itens)
 | **discount\*** | Valor de desconto total neste item | float | Este valor deve ser enviado com 4 casas. decimais | 34.5698 |
 | **net\_total\*** | **Valor total das unidades vendidas, sem impostos e frete** | **float** | **Este valor deve ser enviado com 4 casas. decimais** | **56.9805** |
 | measurement\_unit | Unidade de medida | string | – | “UN” |
-| **gross\_total\*** | **Valor total das unidades vendidas, sem desconto ou acréscimo** | **float** | **Este valor deve ser enviado com 4 casas. decimais** | **56.98** |
-| **unit\_value\*** | **Valor unitário do produto, sem desconto ou acréscimo** | **float** | **Este valor deve ser enviado com 4 casas. decimais** | **45.98** |
+| **gross\_total\*** | **Valor total das unidades vendidas, sem desconto ou acréscimo** | **float** | **Este valor deve ser enviado com 4 casas. decimais** | **56.9800** |
+| **unit\_value\*** | **Valor unitário do produto, sem desconto ou acréscimo** | **float** | **Este valor deve ser enviado com 4 casas. decimais** | **45.9800** |
 | **quantity\*** | **Quantidade do produto** | **float** | **Este valor deve ser enviado com 4 casas. decimais** | **1.0000** |
 | manufacturer\_code | Código do fabricante | string | – | 8928329 |
-| **icms\*** | **Valor do ICMS sobre a compra** | **float** | **–** | **2,9** |
+| **icms\*** | **Valor do ICMS sobre a compra** | **float** | **–** | **2.9000** |
 
 \*Campos obrigatórios
 
