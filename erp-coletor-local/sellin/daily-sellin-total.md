@@ -16,7 +16,7 @@ _Essa entidade não é obrigatória para o Escopo Reduzido \(MVP1\)._
 | **date\*** | **Data do dia** | **string** | **satisfazer o padrão “YYYY-MM-DD”** | **“2018-08-13”** |
 | **type\*** | **Indica qual o tipo de documento fiscal** | **string** | **limita-se apenas aos valores:“nfe”: Nota Fiscal Eletrônica** | **“nfe”** |
 | **quantity\*** | **Quantidade de documentos fiscais** | **integer** | **inteiro não-negativo** | **3759** |
-| **amount\*** | **Faturamento total** | **float** | **float não-negativo** | **123457.9300** |
+| **amount\*** | **Faturamento total** | **float** | **Float não-negativo e este valor deve ser enviado com 4 casas decimais** | **123457.9300** |
 
 \*Campos obrigatórios
 
