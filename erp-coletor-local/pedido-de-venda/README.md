@@ -4,6 +4,8 @@ description: Dados do Pedido - Cabeçalho
 
 # Pedido de Venda
 
+#### Essa entidade deve ser enviada se caso o ERP possuir empresas do segmento de _Material de Construção._
+
 Modelo de Dados - ORDER
 
 <table>
