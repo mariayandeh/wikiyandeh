@@ -19,5 +19,7 @@
     * [Pedido de venda - Endereços](erp-coletor-local/pedido-de-venda/pedido-de-venda-enderecos.md)
     * [Pedido de venda - Forma de Pagamento](erp-coletor-local/pedido-de-venda/pedido-de-venda-forma-de-pagamento.md)
     * [Pedido de venda - Entrega](erp-coletor-local/pedido-de-venda/pedido-de-venda-entrega.md)
+    * [Notas fiscais do Pedido](erp-coletor-local/pedido-de-venda/notas-fiscais-do-pedido/README.md)
+      * [Notas fiscais do Pedido - Títulos da Fatura](erp-coletor-local/pedido-de-venda/notas-fiscais-do-pedido/notas-fiscais-do-pedido-titulos-da-fatura.md)
 * [API-REST](api-rest.md)
 
