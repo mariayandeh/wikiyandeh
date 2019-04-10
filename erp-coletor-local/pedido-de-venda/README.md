@@ -1,6 +1,10 @@
+---
+description: Dados do Pedido - Cabeçalho
+---
+
 # Pedido de Venda
 
-
+Modelo de Dados - ORDER
 
 <table>
   <thead>
@@ -26,13 +30,16 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">order_id<b>*</b>
+      <td style="text-align:left"><b>order_id*</b>
       </td>
-      <td style="text-align:center">Identificador &#xFA;nico do Pedido</td>
+      <td style="text-align:center"><b>Identificador &#xFA;nico do Pedido</b>
+      </td>
       <td style="text-align:right"><b>string</b>
       </td>
-      <td style="text-align:right">tamanho m&#xE1;ximo de 50 caracteres</td>
-      <td style="text-align:right">&#x201C;ABC1233233&#x201D;</td>
+      <td style="text-align:right"><b>tamanho m&#xE1;ximo de 50 caracteres</b>
+      </td>
+      <td style="text-align:right"><b>&#x201C;ABC1233233&#x201D;</b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">status</td>
