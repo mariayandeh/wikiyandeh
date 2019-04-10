@@ -4,6 +4,7 @@
 * [Visão](visao-geral-da-plataforma.md)
 * [Coletor ERP](erp-coletor-local/README.md)
   * [Pedido de Venda](erp-coletor-local/pedido-de-venda/README.md)
+    * [Pedido de venda - Endereços](erp-coletor-local/pedido-de-venda/pedido-de-venda-enderecos.md)
     * [Pedidos de Venda - Itens](erp-coletor-local/pedido-de-venda/pedidos-de-venda-itens.md)
   * [Lojas](erp-coletor-local/store.md)
   * [Compras](erp-coletor-local/sellin/README.md)
