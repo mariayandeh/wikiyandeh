@@ -113,7 +113,7 @@ Modelo de Dados - ORDER
       <td style="text-align:center">N&#xFA;mero do telefone do cliente</td>
       <td style="text-align:right">string</td>
       <td style="text-align:right">--</td>
-      <td style="text-align:right">--</td>
+      <td style="text-align:right">&quot;99999999&quot;</td>
     </tr>
     <tr>
       <td style="text-align:left">customer.taxvat&#x200B;</td>
@@ -134,7 +134,7 @@ Modelo de Dados - ORDER
       <td style="text-align:center">DDD do telefone</td>
       <td style="text-align:right">string</td>
       <td style="text-align:right">--</td>
-      <td style="text-align:right">--</td>
+      <td style="text-align:right">&quot;11&quot;</td>
     </tr>
     <tr>
       <td style="text-align:left">customer.customer_id&#x200B;</td>
