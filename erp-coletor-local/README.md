@@ -20,3 +20,5 @@ A seguir, apresentamos o escopo reduzido:
 | [Compras \(Sellin\)](sellin/) | Compras realizadas pelos clientes |
 | [Vendas \(Sellout\)](sellout-vendas/) | Vendas realizadas pelos clientes |
 
+**IMPORTANTE:** Se o ERP possuir clientes do segmento de Materiais de Construção, é necessário enviar as entidades [Pedido de Venda\(Order\)](pedido-de-venda/) e [Notas fiscais - Pedido de Venda\(Order\_Invoice\)](notas-fiscais-do-pedido/) para o escopo reduzido.
+
