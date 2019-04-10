@@ -12,10 +12,10 @@ Modelo de Dados - ORDER-INVOICE
 | :--- | :---: | ---: | ---: | ---: |
 | **store\_id\*** | **Identificador interno da loja** | **integer ou string** | **--** | **1** |
 | **order\_id\*** | **Identificador único do Pedido** | **string** | **tamanho máximo de 50 caracteres** | **"ABC1233233"** |
-| number\* | Número da nota fiscal | string | tamanho máximo de 50 caracteres | "NFE-0001" |
-| access\_key | Chave de acesso para consulta da nota fiscal eletrônica | string | tamanho máximo de 44 caracteres | "51080701212344000127550010000000981364112281" |
+| **number\*** | **Número da nota fiscal** | **string** | **tamanho máximo de 50 caracteres** | **"NFE-0001"** |
+| **access\_key\*** | **Chave de acesso para consulta da nota fiscal eletrônica** | **string** | **tamanho máximo de 44 caracteres** | **"51080701212344000127550010000000981364112281"** |
 | total\_amount | Valor total da nota fiscal | float | -- | 119.8700 |
-| series | Número de serie da nota fiscal | string | tamanho máximo de 30 caracteres | 3 |
+| **series\*** | **Número de serie da nota fiscal** | **string** | **tamanho máximo de 30 caracteres** | **"003"** |
 | created\_at | Data de emissão | string | satisfazer a expressão regular “\d{4}-\d{1,2}-\d{1,2}\s\(\d{2}:\){2}\d{2}” |  |
 | url | URL do arquivo XML da invoice | string | -- | -- |
 | discount\_amount | Valor total do desconto da nota fiscal | float | -- | 24.9000 |
