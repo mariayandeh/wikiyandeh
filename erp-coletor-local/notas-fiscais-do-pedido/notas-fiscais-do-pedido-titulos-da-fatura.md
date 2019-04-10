@@ -4,6 +4,8 @@ description: Títulos da Fatura
 
 # Notas fiscais do Pedido - Títulos da Fatura
 
+#### Essa entidade deve ser enviada se caso o ERP possuir empresas do segmento de _Material de Construção._
+
 Modelo de Dados - ORDER-INVOICES
 
 <table>

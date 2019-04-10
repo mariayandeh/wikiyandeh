@@ -4,6 +4,8 @@ description: Nota Fiscal - Cabeçalho
 
 # Notas fiscais do Pedido
 
+#### Essa entidade deve ser enviada se caso o ERP possuir empresas do segmento de _Material de Construção._
+
 Modelo de Dados - ORDER-INVOICE
 
 | Campo | Descrição | Tipo | Restrições | Exemplo |
