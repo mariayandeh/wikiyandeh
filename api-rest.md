@@ -18,9 +18,9 @@ A API Yandeh possui as seguintes características:
 
 A solução **API Rest** da plataforma **da Yandeh Integration** foi desenvolvida com a tecnologia REST, que é padrão de mercado e independe da tecnologia utilizada por nossos clientes. Dessa forma, é possível integrar-se utilizando as mais variadas linguagens de programação, tais como:
 
-* ASP
 * Net
 * Java
+* Delphi
 * PHP
 * Ruby
 * Python
