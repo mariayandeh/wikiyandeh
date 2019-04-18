@@ -21,8 +21,6 @@ A solução **API Rest** da plataforma **da Yandeh Integration** foi desenvolvid
 * Net
 * Java
 * Delphi
-* PHP
-* Ruby
 * Python
 
 ### Segurança <a id="seguran&#xE7;a"></a>
