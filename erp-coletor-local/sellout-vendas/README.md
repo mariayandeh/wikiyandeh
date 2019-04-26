@@ -273,16 +273,24 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
     <tr>
       <td style="text-align:center"><b>tipo*</b>
       </td>
-      <td style="text-align:left">Indica qual tipo de documento fiscal</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">
-        <p>limita-se apenas aos valores:</p>
-        <p>&#x25CF; &#x201C;ecf&#x201D; : SPED Fiscal</p>
-        <p>&#x25CF; &#x201C;nfce&#x201D; : Nota Fiscal de Consumidor Eletr&#xF4;nica</p>
-        <p>&#x25CF; &#x201C;sat&#x201D; : SAT Fiscal</p>
-        <p>&#x25CF; &#x201C;nfe&#x201D; : Nota Fiscal Eletr&#xF4;nica</p>
+      <td style="text-align:left"><b>Indica qual tipo de documento fiscal</b>
       </td>
-      <td style="text-align:left">&#x201C;nfce&#x201D;</td>
+      <td style="text-align:left"><b>string</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>limita-se apenas aos valores:</b>
+        </p>
+        <p><b>&#x25CF; &#x201C;ecf&#x201D; : SPED Fiscal</b>
+        </p>
+        <p><b>&#x25CF; &#x201C;nfce&#x201D; : Nota Fiscal de Consumidor Eletr&#xF4;nica</b>
+        </p>
+        <p><b>&#x25CF; &#x201C;sat&#x201D; : SAT Fiscal</b>
+        </p>
+        <p><b>&#x25CF; &#x201C;nfe&#x201D; : Nota Fiscal Eletr&#xF4;nica</b>
+        </p>
+      </td>
+      <td style="text-align:left"><b>&#x201C;nfce&#x201D;</b>
+      </td>
     </tr>
   </tbody>
 </table>### Exemplo da consulta em SQL:
