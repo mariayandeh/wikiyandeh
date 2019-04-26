@@ -99,50 +99,66 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
     <tr>
       <td style="text-align:center"><b>receipt_number*</b>
       </td>
-      <td style="text-align:left">N&#xFA;mero do documento fiscal (NF-e/NFC-e/CF-e)</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">tamanho m&#xE1;ximo de 50 caracteres</td>
-      <td style="text-align:left">&#x201C;33093&#x201D;</td>
+      <td style="text-align:left"><b>N&#xFA;mero do documento fiscal (NF-e/NFC-e/CF-e)</b>
+      </td>
+      <td style="text-align:left"><b>string</b>
+      </td>
+      <td style="text-align:left"><b>tamanho m&#xE1;ximo de 50 caracteres</b>
+      </td>
+      <td style="text-align:left"><b>&#x201C;33093&#x201D;</b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center"><b>receipt_series_number*</b>
       </td>
-      <td style="text-align:left">S&#xE9;rie do documento fiscal (NF-e/NFC-e/CF-e) ou CCF (ECF)</td>
-      <td
-      style="text-align:left">string</td>
-        <td style="text-align:left">No caso de documento ECF, obrigat&#xF3;rio informar o CCF neste campo</td>
-        <td
-        style="text-align:left">&#x201C;27&#x201D;</td>
-    </tr>
-    <tr>
-      <td style="text-align:center"><b>coo*</b>
+      <td style="text-align:left"><b>S&#xE9;rie do documento fiscal (NF-e/NFC-e/CF-e) ou CCF (ECF)</b>
       </td>
-      <td style="text-align:left">N&#xFA;mero do COO (ECF)</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Campo obrigat&#xF3;rio para documentos tipo ECF</td>
-      <td style="text-align:left">&#x201C;123742&#x201D;</td>
+      <td style="text-align:left"><b>string</b>
+      </td>
+      <td style="text-align:left"><b>No caso de documento ECF, obrigat&#xF3;rio informar o CCF neste campo</b>
+      </td>
+      <td style="text-align:left"><b>&#x201C;27&#x201D;</b>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:center"><b>nfe_access_key</b>*</td>
-      <td style="text-align:left">Chave do documento NFC-e/CF-e associado &#xE0; venda</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Satisfazer o padr&#xE3;o exato de come&#xE7;ar com 3 caracteres de tipo
-        (&#x201C;NFe&#x201D; ou &#x201C;CFe&#x201D;) seguido por 44 caracteres
-        num&#xE9;ricos</td>
+      <td style="text-align:center"><em>coo*</em>
+      </td>
+      <td style="text-align:left"><em>N&#xFA;mero do COO (ECF)</em>
+      </td>
+      <td style="text-align:left"><em>string</em>
+      </td>
+      <td style="text-align:left"><em>Campo obrigat&#xF3;rio para documentos tipo ECF</em>
+      </td>
+      <td style="text-align:left"><em>&#x201C;123742&#x201D;</em>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"><b>nfe_access_key*</b>
+      </td>
+      <td style="text-align:left"><b>Chave do documento NFC-e/CF-e associado &#xE0; venda</b>
+      </td>
+      <td style="text-align:left"><b>string</b>
+      </td>
+      <td style="text-align:left"><b>Satisfazer o padr&#xE3;o exato de come&#xE7;ar com 3 caracteres de tipo (&#x201C;NFe&#x201D; ou &#x201C;CFe&#x201D;) seguido por 44 caracteres num&#xE9;ricos</b>
+      </td>
       <td style="text-align:left">
-        <p>NFCe:&#x201C;NFe31170901704848000164650020000018481058491134&#x201D; ou</p>
-        <p>CF-e: &#x201C;CFe35150310860014000139590010000162181020002180&#x201D;;</p>
+        <p><b>NFCe:&#x201C;NFe31170901704848000164650020000018481058491134&#x201D; ou</b>
+        </p>
+        <p><b>CF-e: &#x201C;CFe35150310860014000139590010000162181020002180&#x201D;;</b>
+        </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center"><b>device_id*</b>
+      <td style="text-align:center"><em>device_id*</em>
       </td>
-      <td style="text-align:left">N&#xFA;mero do dispositivo</td>
-      <td style="text-align:left">string</td>
-      <td style="text-align:left">Deve sempre ser fornecido para documentos do tipo ECF e em forma completa
-        (em vez de reduzida). <b>Tamanho m&#xE1;ximo de 50 caracteres</b>
+      <td style="text-align:left"><em>N&#xFA;mero do dispositivo</em>
       </td>
-      <td style="text-align:left">&#x201C;BE1000199329329922&#x201D;</td>
+      <td style="text-align:left"><em>string</em>
+      </td>
+      <td style="text-align:left"><em>Deve sempre ser fornecido para documentos do tipo ECF e em forma completa (em vez de reduzida). Tamanho m&#xE1;ximo de 50 caracteres</em>
+      </td>
+      <td style="text-align:left"><em>&#x201C;BE1000199329329922&#x201D;</em>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">seller_id</td>
