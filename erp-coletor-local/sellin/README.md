@@ -17,17 +17,17 @@
 | seller\_id | CPF do vendedor associado a esta NF, caso exista vendedor relacionado | string | tamanho máximo de 11 caracteres | “RCNTH345987” |
 | ipi | Valor do IPI sobre a compra | float | Este valor deve ser enviado com 4 casas decimais | 1.8700 |
 | iss | Valor do ISS sobre a compra | float | Este valor deve ser enviado com 4 casas decimais | 1.0100 |
-| **sales\_discount\*** | Valor de desconto na compra | float | Este valor deve ser enviado com 4 casas decimais | 5.9900 |
+| **sales\_discount\*** | **Valor de desconto na compra** | **float** | **Este valor deve ser enviado com 4 casas decimais** | **5.9900** |
 | insurance\_price | Valor do seguro | float | Este valor deve ser enviado com 4 casas decimais | 2.0000 |
 | **gross\_total\*** | **Valor total da NF. Este valor deve vir com 4 casas decimais** | **float** | **Este valor deve ser enviado com 4 casas decimais** | **5.9900** |
 | **cancellation\_flag\*** | **Indica se esta compra foi cancelada ou não** | **string** | **Valores aceitos: “S” — para sim e “N” — para não** | **“S”** |
 | **nfe\_series\_number\*** | **Número de Série da Nota Fiscal** | **integer** | – | **1** |
 | **nfe\_number\*** | **Número da Nota Fiscal** | **integer** | – | **1267232** |
-| **sales\_addition\*** | Valor de acréscimo na compra | float | Este valor deve vir com 4 casas decimais | 4.5500 |
+| **sales\_addition\*** | **Valor de acréscimo na compra** | **float** | **Este valor deve vir com 4 casas decimais** | **4.5500** |
 | **store\_taxpayer\_id\*** | **CNPJ da loja** | **string** | **tamanho máximo de 14 caracteres** | **“14463765000100”** |
 | **net\_total\*** | **Valor total da NF sem impostos e frete** | **float** | **Este valor deve vir com 4 casas decimais** | **4.9999** |
 | freight\_price | Valor do frete | float | Este valor deve ser enviado com 4 casas decimais | 1.0000 |
-| **icms\*** | Valor do ICMS sobre a compra | float | Este valor deve ser enviado com 4 casas decimais | 2.9000 |
+| **icms\*** | **Valor do ICMS sobre a compra** | **float** | **Este valor deve ser enviado com 4 casas decimais** | **2.9000** |
 
 #### Exemplo da consulta em SQL:
 
