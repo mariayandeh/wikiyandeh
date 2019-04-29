@@ -23,7 +23,7 @@ description: Modelo de Dados - "Sellin-Items" | Compras de Fornecedor (Itens)
 | **unit\_value\*** | **Valor unitário do produto, sem desconto ou acréscimo** | **float** | **Este valor deve ser enviado com 4 casas decimais** | **45.9800** |
 | **quantity\*** | **Quantidade do produto** | **float** | **Este valor deve ser enviado com 4 casas decimais** | **1.0000** |
 | manufacturer\_code | Código do fabricante | string | – | 8928329 |
-| **icms\*** | **Valor do ICMS ST sobre a compra** | **float** | **Este valor deve ser enviado com 4 casas decimais** | **2.9000** |
+| **icms\*** | **Valor do ICMS ST do item** | **float** | **Este valor deve ser enviado com 4 casas decimais** | **2.9000** |
 
 \*Campos obrigatórios
 
