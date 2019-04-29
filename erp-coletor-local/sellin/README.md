@@ -27,7 +27,7 @@
 | **store\_taxpayer\_id\*** | **CNPJ da loja** | **string** | **tamanho máximo de 14 caracteres** | **“14463765000100”** |
 | **net\_total\*** | **Valor total da NF sem impostos e frete** | **float** | **Este valor deve vir com 4 casas decimais** | **4.9999** |
 | freight\_price | Valor do frete | float | Este valor deve ser enviado com 4 casas decimais | 1.0000 |
-| **icms\*** | **Valor do ICMS sobre a compra** | **float** | **Este valor deve ser enviado com 4 casas decimais** | **2.9000** |
+| **icms\*** | **Valor do ICMS ST sobre a compra** | **float** | **Este valor deve ser enviado com 4 casas decimais** | **2.9000** |
 
 #### Exemplo da consulta em SQL:
 
