@@ -177,7 +177,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       </td>
       <td style="text-align:left"><b>--</b>
       </td>
-      <td style="text-align:left"><b>0.50</b>
+      <td style="text-align:left"><b>0.5000</b>
       </td>
     </tr>
     <tr>
@@ -189,7 +189,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       </td>
       <td style="text-align:left"><b>--</b>
       </td>
-      <td style="text-align:left"><b>1.75</b>
+      <td style="text-align:left"><b>1.7500</b>
       </td>
     </tr>
     <tr>
@@ -201,7 +201,7 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       </td>
       <td style="text-align:left"><b>--</b>
       </td>
-      <td style="text-align:left"><b>5.93</b>
+      <td style="text-align:left"><b>5.9300</b>
       </td>
     </tr>
     <tr>
@@ -254,21 +254,21 @@ description: Modelo de Dados - "SellOut" | Vendas para Clientes
       <td style="text-align:left">Valor do IPI sobre a venda</td>
       <td style="text-align:left">float</td>
       <td style="text-align:left">--</td>
-      <td style="text-align:left">1.87</td>
+      <td style="text-align:left">1.8700</td>
     </tr>
     <tr>
       <td style="text-align:center">iss</td>
       <td style="text-align:left">Valor do ISS sobre a venda</td>
       <td style="text-align:left">float</td>
       <td style="text-align:left">--</td>
-      <td style="text-align:left">1.01</td>
+      <td style="text-align:left">1.0100</td>
     </tr>
     <tr>
       <td style="text-align:center">frete</td>
       <td style="text-align:left">Valor de frete da venda</td>
       <td style="text-align:left">float</td>
       <td style="text-align:left">--</td>
-      <td style="text-align:left">25.98</td>
+      <td style="text-align:left">25.9800</td>
     </tr>
     <tr>
       <td style="text-align:center"><b>tipo*</b>

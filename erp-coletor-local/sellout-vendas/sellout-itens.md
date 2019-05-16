@@ -26,7 +26,7 @@ description: Modelo de Dados - "Sellout-Items" | Vendas aos Clientes (Itens)
 | cofins | Valor do COFINS sobre o item | float | -- | 1.5000 |
 | **measurement\_unit\*** | **Unidade de medida** | **string** | **--** | **"KG"** |
 | **unit\_value\*** | **Valor unitário do produto. Este valor deve vir com 4 casas decimais** | **float** | **--** | **4.9888** |
-| **quantity\*** | **Quantidade comprada do produto** | **integer** | **--** | **1** |
+| **quantity\*** | **Quantidade comprada do produto** | **float** | **--** | **1.0000** |
 | manufacturer\_code | Código do fabricante | string | -- | 8928329 |
 
 ## Exemplo de consulta em SQL:
