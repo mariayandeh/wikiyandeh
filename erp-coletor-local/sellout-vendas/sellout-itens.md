@@ -21,12 +21,13 @@ description: Modelo de Dados - "Sellout-Items" | Vendas aos Clientes (Itens)
 | cfop | Código Fiscal de Operações e Prestações | integer | -- | 1103 |
 | **item\_discount\*** | **Valor de desconto do item** | **float** | **--** | **4.9800** |
 | ipi | Valor do IPI sobre o item | float | -- | 1.8700 |
-| icms | Valor do ICMS ST sobre o item | float | -- | 2.5000 |
+| icms | Valor do ICMS | float | -- | 2.5000 |
+| item\_icms\_st | Valor do ICMS ST sobre o item | float | -- | 2.5000 |
 | pis | Valor do PIS sobre o item | float | -- | 1.5000 |
 | cofins | Valor do COFINS sobre o item | float | -- | 1.5000 |
 | **measurement\_unit\*** | **Unidade de medida** | **string** | **--** | **"KG"** |
 | **unit\_value\*** | **Valor unitário do produto. Este valor deve vir com 4 casas decimais** | **float** | **--** | **4.9888** |
-| **quantity\*** | **Quantidade comprada do produto** | **integer** | **--** | **1** |
+| **quantity\*** | **Quantidade comprada do produto** | **float** | **--** | **1.0000** |
 | manufacturer\_code | Código do fabricante | string | -- | 8928329 |
 
 ## Exemplo de consulta em SQL:
