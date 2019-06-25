@@ -12,6 +12,8 @@ description: "Modelo de Dados - SUPPLIERS\t| Fornecedores do respectivo produto 
 | **code\*** | **Código interno do produto** | **string** | **tamanho máximo de 50 caracteres** | **"3789"** |
 | **supplier\*** | **Código do Fornecedor** | **string** | **--** | **"72086766000141"** |
 
+\*Campos obrigatórios
+
 ### Exemplo da consulta em SQL:
 
 ```text

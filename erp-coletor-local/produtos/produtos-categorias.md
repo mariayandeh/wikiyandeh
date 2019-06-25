@@ -14,6 +14,8 @@ description: >-
 | **code\*** | **Código interno do produto** | **string** | **tamanho máximo de 50 caracteres** | **"3789"** |
 | **cetegory\*** | **Categoria do produto** | **string** | **--** | **"Bebidas"** |
 
+\*Campos obrigatórios
+
 ### Exemplo da consulta em SQL:
 
 ```text

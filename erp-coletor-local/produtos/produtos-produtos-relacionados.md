@@ -15,6 +15,8 @@ description: >-
 | **internal\_code** | **Código interno do produto no ERP** | **string** | **--** | **"93287"** |
 | **sku** | **Código de barras \(EAN 13 ou DUN14\) dos produtos relacionados ao respectivo produto da entidade \[Products\]** | **string** | **tamanho máximo de 20 caracteres** | **"11402329312324"** |
 
+\*Campos obrigatórios
+
 ### Exemplo da consulta em SQL:
 
 ```text

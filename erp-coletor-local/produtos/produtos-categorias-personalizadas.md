@@ -15,6 +15,8 @@ description: >-
 | attibute\_code | Código atribuído personalizado | string | -- | "code" |
 | value | Valor atribuído personalizado | string | -- | "9328757" |
 
+\*Campos obrigatórios
+
 ### Exemplo da consulta em SQL:
 
 ```text
