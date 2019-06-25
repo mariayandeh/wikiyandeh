@@ -2,7 +2,7 @@
 description: Modelo de Dados - PRODUCTS | Cadastro de Produto
 ---
 
-# \*Produtos
+# Produtos
 
 ## Cadastro de Produto
 
