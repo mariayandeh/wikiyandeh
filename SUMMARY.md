@@ -22,5 +22,10 @@
   * [\*Notas fiscais - Pedido de Venda](erp-coletor-local/notas-fiscais-do-pedido/README.md)
     * [Notas fiscais do Pedido - Títulos da Fatura](erp-coletor-local/notas-fiscais-do-pedido/notas-fiscais-do-pedido-titulos-da-fatura.md)
     * [Notas fiscais do Pedido - Itens da Fatura](erp-coletor-local/notas-fiscais-do-pedido/notas-fiscais-do-pedido-itens-da-fatura.md)
+  * [\*Produtos](erp-coletor-local/produtos/README.md)
+    * [Produtos - Categorias](erp-coletor-local/produtos/produtos-categorias.md)
+    * [Produtos - Categorias Personalizadas](erp-coletor-local/produtos/produtos-categorias-personalizadas.md)
+    * [Produtos - Produtos Relacionados](erp-coletor-local/produtos/produtos-produtos-relacionados.md)
+    * [Produtos - Fornecedores](erp-coletor-local/produtos/produtos-fornecedores.md)
 * [API-REST](api-rest.md)
 
