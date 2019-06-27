@@ -85,7 +85,7 @@ description: Modelo de Dados - PRODUCTS | Cadastro de Produto
         </p>
         <p><b>&#x25CF; &#x201C;bundle&#x201D; </b>
         </p>
-        <p><b>&#x25CF; &#x201C;downloadable&#x201D;</b>
+        <p><b>&#x25CF;&#x201C;downloadable&#x201D;</b>
         </p>
       </td>
       <td style="text-align:left"><b>&#x201C;simple&#x201D;</b>
