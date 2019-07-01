@@ -19,7 +19,7 @@ A seguir, apresentamos o escopo reduzido:
 | [Store](store.md) | Loja do cliente |
 | [Compras \(Sellin\)](sellin/) | Compras realizadas pelos clientes |
 | [Vendas \(Sellout\)](sellout-vendas/) | Vendas realizadas pelos clientes |
-| [Products \(Produtos\)](https://wiki-yandeh.gitbook.io/yandeh/erp-coletor-local/produtos) | Cadastro de produto e suas respectivas categorias |
+| [Produtos \(Products\)](produtos/) | Cadastro de produto e suas respectivas categorias |
 
 **IMPORTANTE:** Se o ERP possuir clientes do segmento de Materiais de Construção, é necessário enviar as entidades [Pedido de Venda\(Order\)](pedido-de-venda/) e [Notas fiscais - Pedido de Venda\(Order\_Invoice\)](notas-fiscais-do-pedido/) para o escopo reduzido.
 
