@@ -12,7 +12,7 @@ description: >-
 | :---: | :--- | :--- | :--- | :--- |
 | **store\_id\*** | **Identificador interno da loja** | **integer ou string** | **--** | **1** |
 | **code\*** | **Código interno do produto** | **string** | **tamanho máximo de 50 caracteres** | **"3789"** |
-| **cetegory\*** | **Categoria do produto** | **string** | **--** | **"Bebidas"** |
+| **category\*** | **Categoria do produto** | **string** | **--** | **"Bebidas"** |
 
 \*Campos obrigatórios
 
