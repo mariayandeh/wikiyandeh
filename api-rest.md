@@ -12,7 +12,7 @@ A API Yandeh possui as seguintes características:
 
 • Todas as requisições e respostas encontram-se no formato JSON.
 
-> Acesse a documentação [Swagger Hub](https://app.swaggerhub.com/apis/thiago.franca/erp-yandeh-integration/1.0.0.8/).
+> Acesse a documentação [Swagger Hub](https://app.swaggerhub.com/apis/orseni/yandeh-integration/1.2#/).
 
 ## Linguagem de Programação  <a id="linguagem-de-programa&#xE7;&#xE3;o"></a>
 
