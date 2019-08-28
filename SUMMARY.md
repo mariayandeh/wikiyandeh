@@ -27,5 +27,6 @@
   * [\*Notas fiscais - Pedido de Venda](erp-coletor-local/notas-fiscais-do-pedido/README.md)
     * [Notas fiscais do Pedido - Títulos da Fatura](erp-coletor-local/notas-fiscais-do-pedido/notas-fiscais-do-pedido-titulos-da-fatura.md)
     * [Notas fiscais do Pedido - Itens da Fatura](erp-coletor-local/notas-fiscais-do-pedido/notas-fiscais-do-pedido-itens-da-fatura.md)
+    * [Estoque](erp-coletor-local/notas-fiscais-do-pedido/estoque.md)
 * [API-REST](api-rest.md)
 
