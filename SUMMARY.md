@@ -3,6 +3,7 @@
 * [Documentação Yandeh - Integração](README.md)
 * [Visão](visao-geral-da-plataforma.md)
 * [Coletor ERP](erp-coletor-local/README.md)
+  * [Transação Financeira](erp-coletor-local/transacao-financeira.md)
   * [Lojas](erp-coletor-local/store.md)
   * [Compras](erp-coletor-local/sellin/README.md)
     * [Compras - Itens](erp-coletor-local/sellin/sellin-items.md)
@@ -27,6 +28,6 @@
   * [\*Notas fiscais - Pedido de Venda](erp-coletor-local/notas-fiscais-do-pedido/README.md)
     * [Notas fiscais do Pedido - Títulos da Fatura](erp-coletor-local/notas-fiscais-do-pedido/notas-fiscais-do-pedido-titulos-da-fatura.md)
     * [Notas fiscais do Pedido - Itens da Fatura](erp-coletor-local/notas-fiscais-do-pedido/notas-fiscais-do-pedido-itens-da-fatura.md)
-    * [Estoque](erp-coletor-local/notas-fiscais-do-pedido/estoque.md)
+  * [Estoque](erp-coletor-local/estoque.md)
 * [API-REST](api-rest.md)
 
